@@ -1,0 +1,69 @@
+1)Shahrum Shahbal was born in Tehran .
+2)Eleanor Post Close was born in Greenwich .
+3)John William Alcock was born in Stretford .
+4)John Rankin Rathbone was born in London .
+5)John Bigelow Dodge was born in New York City .
+6)Carly Elisabeth Simon was born in The Bronx .
+7)Thomas Riley Marshall was born in North Manchester .
+8)Yahya Abdul-Aziz Jemus Junkung Jammeh was born in Kanilai .
+9)Margaret Dusa Waddington was born in London .
+10)Augusta Klumpke was born in San Francisco .
+11)Janet Damita Jo Jackson was born in St. Louis.
+
+['Gary']
+1)Lauryn Alisa McClain was born in Decatur .
+2)James Thomas Brudenell was born in Hambleden .
+3)Walter Houghston was born in Toronto .
+4)Hector Og Maclean was born in Duart Castle .
+5)Richard Starkey was born in Liverpool .
+6)Brandon Cole Margera was born in West Chester .
+7)Kobe Bean Bryant was born in Philadelphia .
+8)William Alexander Erskine West was born in Annamoe .
+9)Daniel Tyler was born in Bristol .
+10)Thomas Dalyell Loch was born in Edinburgh .
+11)Elizabeth Clementine Kinney was born in New Providence.
+12
+['New', 'York', 'City']
+1)Francis Hastings Charles Doyle was born in Tadcaster .
+2)Norman Otto Olson II was born in Chicago .
+3)Nala Yasmeen Ivory Wayans was born in United States of America .
+4)Vincent Leonard Price, Jr. was born in St. Louis .
+5)Sally Margaret Field was born in Pasadena .
+6)Flora Dodge La Follette was born in Madison .
+7)Elizabeth Victoria Montgomery was born in Hollywood .
+8)Jonathan Kasdan was born in Los Angeles .
+9)David Wright Miliband was born in London .
+10)Robert the Bruce was born in Turnberry Castle .
+11)Sumner Murray Rothstein was born in New York.
+12
+['Boston']
+1)Lady Olympia Arabella Kitty Spencer-Churchill was born in Portland Hospital .
+2)Charles Spencer Chaplin was born in London .
+3)Kitty Eleanor Spencer was born in London .
+4)Percy Ellen Algernon Frederick William Sydney Smythe was born in Saint Petersburg .
+5)Francis Hastings Charles Doyle was born in Tadcaster .
+6)Adelaide Brevoort Close was born in Greenwich .
+7)Patricia Denise Robins was born in Hove .
+8)Francis Ephraim Cohen was born in London .
+9)Margaret Cushing Whitman was born in Cold Spring Harbor .
+10)Elinor Teresa Newman was born in New York .
+11)Mary Gray Phelps was born in New York.
+12
+['Boston']
+1)Philip John Baker was born in Hendon .
+2)Alexander Franklin James was born in Kearney .
+3)Nancy Davis was born in Manhattan .
+4)Jean Milligan was born in Cleveland .
+5)Catherine Eugenia Finnegan was born in Scranton .
+6)Dorothea Waley Cohen was born in London .
+7)Anthony Trollope was born in London .
+8)Jennifer Joanna Aniston was born in Sherman Oaks .
+9)Charles Frederick Arden-Close was born in Jersey .
+10)Amini Cishugi was born in Bukavu .
+11)Anders Leonard Zorn was born in Copenhagen.
+12)
+['Mora']
+Silas Robertson was born in Bernice .
+11)Roy Holland Weaver IV was born in Chicago.
+12)
+['Ormond', 'Beach']
