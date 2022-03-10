@@ -1,1293 +1,800 @@
-1)Emilie Charlotte Le Breton was born in Saint Saviour .
-2)Thomas Robert Malthus was born in Surrey .
-3)John Milton Hay was born in Salem .
-4)George Roger Waters was born in Great Bookham .
-5)Ashley Tyler Ciminella was born in Granada Hills .
-6)Mabel Ellen Dove was born in Accra .
-7)John Powel Hare was born in Philadelphia .
-8)William Wayne McMillan Rogers was born in Birmingham .
-9)Eleanor Furneaux Smith was born in Birkenhead .
-10)Alvin Pleasant Delaney Carter was born in Virginia .
-11)Flora Louisa Cecilia MacLeod was born in Philadelphia.
-12)
-['10', 'Downing', 'Street']
-1)Charles Thomas Cox was born in London .
-2)Rachel Pearsall Conn Costelloe was born in Westminster .
-3)Steven Frederic Seagal was born in Lansing .
-4)Christopher Allen Lloyd was born in Stamford .
-5)Grace Graham Wilson was born in New York City .
-6)Pamela Beryl Digby was born in Farnborough .
-7)Edward Samuel Miliband was born in London .
-8)Julia Romana Howe was born in Rome .
-9)Louisa MacDonald was born in Manchester .
-10)Virginia Cathryn Rowlands was born in Madison .
-11)Agnes Dunbar Moodie was born in Sydney.
-12)
-['Cobourg']
-1)Darren Edward Andrew Randolph was born in Bray .
-2)Robert Morris Morgenthau was born in Manhattan .
-3)John Francis Craven was born in Boston .
-4)Mariska Magdolna Hargitay was born in Santa Monica .
-5)Henry Codman Potter I was born in Schenectady .
-6)Mary Kathleen Crichton was born in Paddington .
-7)Victoria Alexandrina Maria Louisa Stuart-Wortley was born in London .
-8)George Edward Peter Thorneycroft was born in Dunston .
-9)Julian Russell Sturgis was born in Boston .
-10)John Taylor Coleridge was born in Tiverton .
-11)Joseph Rudyard Kipling was born in London.
-12)
-['Mumbai']
-1)William Josiah Smyly was born in Dublin .
-2)William Rufus de Vane King was born in Sampson County .
-3)Prince Rogers Nelson was born in Minneapolis .
-4)Aileen Yvonne Palmer was born in London .
-5)Richard Walter Jenkins was born in Pontrhydyfen .
-6)Willielma Maxwell was born in Galloway .
-7)Joseph Stanley Williams was born in Santa Monica .
-8)Jefferson Finis Davis was born in Fairview .
-9)Charles Leonard Augustus Parsons was born in Filey .
-10)Elizabeth March was born in United States of America .
-11)Amelia Catherine Bennett was born in Ireland.
-12)
-['Nador']
-1)Leonard Alan Lauder was born in New York City .
-2)Deborah Vivien Freeman-Mitford was born in Asthall Manor .
-3)Robert Gabriel Mugabe was born in Kutama .
-4)Helen Miller Gould was born in Manhattan .
-5)Maria Halle Berry was born in Cleveland .
-6)Almy Kinner was born in Stony Brook .
-7)Peter Brian Gabriel was born in Chobham .
-8)Hugh Culling Eardley Childers was born in London .
-9)Hugh Marston Hefner was born in Chicago .
-10)Vincent Leonard Price, Jr. was born in St. Louis .
-11)Dwayne Douglas Johnson was born in St. Louis.
+1)Jacob Bruskin Gershowitz was born in Brooklyn .
+2)Eleanor Margaret Cropper was born in Kendal .
+3)Stephen Valentine Patrick William Allen was born in New York City .
+4)Gabriella Zanna Vanessa Anstruther-Gough-Calthorpe was born in Basingstoke .
+5)Leonard Alan Lauder was born in New York City .
+6)Gabriella Marina Alexandra Ophelia Windsor was born in New York City.
 
-['Hayward']
-1)Jacqueline-Natalie Klenczon was born in Chicago .
-2)Morgan Kathryn Reynolds was born in San Diego .
-3)Philip John Baker was born in Hendon .
-4)Adrian Cedric Boult was born in Chester .
-5)Spangler Arlington Brugh Taylor. was born in Filley .
-6)James Richard Atkin was born in Brisbane .
-7)Robert Junior Kardashian was born in Los Angeles .
-8)Arthur Lithgow Osborne was born in Auburn .
-9)Josephine Elizabeth Grey was born in Glendale .
-10)Booker Taliaferro Washington was born in Hale\'s Ford .
-11)Rosalie Ida Blun was born in St. Louis.
+['St.', "Mary\\'s", 'Hospital']
+1)William Morrison Charlap was born in New York City .
+2)Samuel Newcome was born in Sneinton .
+3)Henry Zuckerman was born in New York City .
+4)Katherine Mathilda Swinton was born in London .
+5)Jason Silas Robertson was born in Bernice .
+6)Princess Cäcilie Auguste of Baden was born in Baden.
+7
+['Karlsruhe']
+1)Vincent Frederik Minik Alexander of Denmark was born in Rigshospitalet .
+2)William Hayward Wakefield was born in Essex .
+3)Henry Pickering Bowditch was born in Boston .
+4)Genevieve Caroline Wines was born in Ruby Valley .
+5)Frances Maurine Barris was born in Hollywood .
+6)Robert Hunter Biden was born in Wilmington.
+7)
+['Wilmington']
+1)Frances Perdita Aldington was born in London .
+2)Gertrude Freudenberg was born in New York City .
+3)Robert Clarence Irwin was born in Buderim .
+4)Silvia Renate Sommerlath was born in Heidelberg .
+5)Ian Richard Kyle Paisley was born in Belfast .
+6)Laurence Paul Fox was born in New York City.
 
-['Worms']
-1)Carly Elisabeth Simon was born in The Bronx .
-2)James Jackson Storrow II was born in Boston .
-3)Alfred Dickinson Price was born in Wicklow .
-4)Joseph Edmund Johnson was born in London .
-5)John Hay Drummond Hay was born in Valenciennes .
-6)Benedict Leonard Calvert was born in Province of Maryland .
-7)Natalie Maria Cole was born in Los Angeles .
-8)Electra Havemeyer was born in New York City .
-9)Jorie Pepper was born in New York City .
-10)Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville, Earl Temple was born in Westminster St James .
-11)Daniel Jacob Radcliffe was born in London.
-12)
-['Hammersmith']
-1)William Edward Haslam was born in Knoxville .
-2)Samuel Alexander Mendes was born in Reading .
-3)Joseph Edmund Johnson was born in London .
-4)Zachary David Alexander Efron was born in San Luis Obispo .
-5)John Charles Walsham Reith was born in Stonehaven .
-6)Aaron William Jouannet-Hartley was born in Hammersmith .
-7)Hector Og Maclean was born in Duart Castle .
-8)Mary Pierrepont was born in Nottingham .
-9)Zelda Rae Williams was born in New York City .
-10)Matilda Theodora Pauncefote was born in Swansea .
-11)Mary Morse Baker was born in Boston.
-12)
-['Bow']
-1)Edith Margaret Emily Ashcroft was born in Surrey .
-2)Charles Robert Harington was born in Llanerfyl .
-3)Ethan Green Hawke was born in Austin .
-4)Shahrum Shahbal was born in Tehran .
-5)Serena Jameka Williams was born in Saginaw .
-6)Vincent Frederik Minik Alexander of Denmark was born in Rigshospitalet .
-7)Barbara Yelverton was born in Warwickshire .
-8)Girard Brown Henderson was born in Brooklyn .
-9)Sean Maxwell Douglas was born in Los Angeles .
-10)Catherine Plunket was born in County Louth .
-11)Clinton Engle Howard was born in Hingham.
-12
-['Burbank']
-1)John Winston Lennon was born in Liverpool Maternity Hospital .
-2)Stephen Ian Fairbairn was born in Melbourne .
-3)Edward Emerson Ford McQuaid was born in Courbevoie .
-4)Mary Stevenson Cassatt was born in Allegheny .
-5)Walter Frederick Mondale was born in Ceylon .
-6)Sylvia Lance was born in Canterbury .
-7)Helen Frances Garrison was born in Boston .
-8)George Corley Wallace, III was born in Eufaula .
-9)John Henry Brodribb was born in Keinton Mandeville .
-10)Kattie B. Screws was born in Barbour County .
-11)Adlai Ewing Stevenson was born in Brooklyn.
-12)
-['Christian', 'County']
-1)Joseph Patrick Kennedy was born in Boston .
-2)Archibald Alexander Leach was born in Bristol .
-3)Milica Bogdanovna Jovovich was born in Kyiv .
-4)Margaret Germaine Palfrey was born in Boston .
-5)James Arthur Lovell Jr. was born in Cleveland .
-6)Kanye Omari West was born in Atlanta .
-7)William Blake Crump was born in Tulsa .
-8)Anne Acland-Troyte was born in Kensington .
-9)David Wright Miliband was born in London .
-10)Ashurst Turner Gilbert was born in Burnham Beeches .
-11)Mary Eglantyne Hill was born in New York.
-12
-['Cambridge']
-1)Augustus John Smith was born in London .
-2)Ambrose Gwinnetter Bierice was born in Meigs County .
-3)Mary Sidney was born in Bewdley .
-4)Margaret Dusa Waddington was born in London .
-5)Charles John Huffam Dickens was born in Landport .
-6)Lizzie Andrew Borden was born in Fall River .
-7)Mary Marvin Breckinridge was born in New York City .
-8)Jorie Pepper was born in New York City .
-9)Matthew Clive Pinsent was born in Holt .
-10)Kathleen Lilian Agnes Tuckey was born in Godalming .
-11)Edward Perry Warren was born in New York City.
-
-['Boston']
-1)George Brydges Rodney was born in Walton-on-Thames .
-2)Leonard Jenyns was born in London .
-3)Alberto Kenya Fujimori Fujimori was born in Lima .
-4)John Adam Belushi was born in Humboldt Park .
-5)Stewart Armstrong Copeland was born in Alexandria .
-6)Mary Theresa Johnson was born in Great Torrington .
-7)John Brown was born in Torrington .
-8)Elizabeth Harman was born in London .
-9)Christopher Scott Kyle was born in Odessa .
-10)Frances Carroll was born in Leicester .
-11)Amanda Koci was born in Torrington.
-['Milwaukee']
-1)Esther Jane Williams was born in Inglewood .
-2)Audrey Kathleen Ruston was born in Ixelles - Elsene .
-3)Thomas Sean Connery was born in Fountainbridge .
-4)Kamala Devi Harris was born in Oakland Medical Center .
-5)Leonore Lilian Maria Bernadotte was born in NewYork–Presbyterian Hospital .
-6)Stephen Higginson Tyng was born in Newburyport .
-7)Robert Berkeley was born in Worcester .
-8)Mary Anne Evans was born in Nuneaton .
-9)Peter Henry Fonda was born in New York City .
-10)Martha Haskins Du Puy was born in Philadelphia .
-11)Herbert George Wells was born in Newport.
-12)
-['Bromley']
-1)Irene Gladys Mayer was born in Brooklyn .
-2)George Ralph Fetherston was born in Dublin .
-3)Alecia Beth Moore was born in Doylestown .
-4)Mary Nesta Skrine was born in County Kildare .
-5)Lucile Vasconcellos Langhanke was born in Quincy .
-6)Samuel Alexander Mudd was born in Charles County .
-7)Grace Brewster Murray was born in New York City .
-8)Anna Augusta Kershaw was born in Glen Cove .
-9)Alice Mary Norton was born in Cleveland .
-10)Jason Ferus Blum was born in Los Angeles .
-11)Mary Temple Grandin was born in Pittsburgh.
-12)
-['Boston']
-1)Mary Pierrepont was born in Nottingham .
-2)Dorothea Christina Thomas was born in St. George\'s .
-3)Gianna Maria-Onor\'e Bryant was born in Los Angeles .
-4)Robert Morris Morgenthau was born in Manhattan .
-5)Stephen Harold Spender was born in Kensington .
-6)William Lyon Mackenzie King was born in Kitchener .
-7)Georgina Leigh Bloomberg was born in New York City .
-8)Laila Amaria Ali was born in Miami Beach .
-9)Joseph Thomas Sheridan Le Fanu was born in Dublin .
-10)Etterlene DeBarge was born in Detroit .
-11)Simon Jonathan Sebag Montefiore was born in New York City.
-
-['London']
-1)William Cecil Dampier Whetham was born in Greater London .
-2)Christopher Taylor Buckley was born in Stamford .
-3)Thea Dearden Queen was born in Star City .
-4)Frederick Austerlit was born in Omaha .
-5)Anna Eleanor Roosevelt was born in Manhattan .
-6)Arthur Asher Miller was born in New York City .
-7)Sara Coleridge was born in Keswick .
-8)Edward Henry Garnier was born in Wuppertal .
-9)Victoria Alexandrina Maria Louisa Stuart-Wortley was born in London .
-10)Melissa Warburg Rosenburg was born in New York City .
-11)Flora Alexandra Ogilvy was born in Saint John.
-12
-['Edinburgh']
-1)Katharine Elizabeth Alan Stevenson was born in Edinburgh .
-2)Cecilia May Gibbs was born in Sydenham .
-3)Thomas Robert Malthus was born in Surrey .
-4)Robert Richard Torrens was born in Cork .
-5)Frank Armstrong Crawford was born in Mobile .
-6)Nicholas Winston Soames was born in Croydon .
-7)Olga of Greece and Denmark was born in Tatoi Palace .
-8)Christabel Mary Melville Macnaghten was born in Chelsea .
-9)Lady Jean Violet Campbell was born in Westminster .
-10)Susan Catherine Koerner was born in Hillsboro .
-11)Mathew Caradoc Thomas Prichard was born in St. Helens.
-['Cheshire']
-1)Catherine Ball was born in Lambourne .
-2)Philip Nicholas Shuttleworth was born in Kirkham .
-3)Susan Jacobson was born in New York .
-4)Naomi Ellen Watts was born in Shoreham .
-5)Jackson Levi Duggar was born in Tontitown .
-6)Matilda Charlotte Vining was born in Liverpool .
-7)James Waddell Alexander was born in Sea Bright .
-8)Moses Amadeus Farrow was born in Korea .
-9)Francis Ysidro Edgeworth was born in County Longford .
-10)Anna Raymond Massey was born in Thakeham .
-11)Edith Claire Bryce was born in Ballynure.
-['Manhattan']
-1)Helen Beatrix Potter was born in South Kensington .
-2)Bruce Peter Reimer was born in Winnipeg .
-3)Rosa Ehrenreich was born in New York City .
-4)Jordin Brianna Sparks was born in Phoenix .
-5)Phoebe Ann Laub was born in New York City .
-6)Jeffrey Edward Epstein was born in Brooklyn .
-7)Mary Morris was born in Red House .
-8)Lisabeth Mary Shatner was born in West Hollywood .
-9)Domenica Elizabeth Scorsese was born in California .
-10)Kathleen Annie Pannonica Rothschild was born in London .
-11)Toni Leicester was born in England.
-12)
-['Montreal']
-1)Oscar Fingal O’Flahertie Wills Wilde was born in Dublin .
-2)Harriet Jane Tremayne was born in London .
-3)Eleanor Axson Sayre was born in Philadelphia .
-4)Daniel Foe was born in Ward of Cripplegate .
-5)Svetlana Aleksandrovna Kuznetsov was born in Saint Petersburg .
-6)Irene Lilian Creese was born in London .
-7)Mary Ann Dyke was born in London .
-8)Alfred Bernhard Nobel was born in Jakob and Johanne parish .
-9)Denise Naomi Klein was born in London .
-10)Olga of Greece and Denmark was born in Tatoi Palace .
-11)Alex James Murphy was born in London.
-12)
-['Wakefield']
-1)Richard Arthur Warren Hughes was born in Weybridge .
-2)Gabriella Zanna Vanessa Anstruther-Gough-Calthorpe was born in Basingstoke .
-3)Frances Scott Fitzgerald was born in Saint Paul .
-4)Luke Adrian Humphrey was born in California .
-5)Jared Francis Harris was born in London .
-6)Jean Wedderburn was born in Edinburgh .
-7)Betty Ellen Askwith was born in London .
-8)Darren Edward Andrew Randolph was born in Bray .
-9)Mabel Martine Los was born in Pijnacker .
-10)Hero Beauregard Faulkner Fiennes-Tiffin was born in London .
-11)Rose Postlethwaite Perkins was born in Edinburgh.
-12)
-['Union', 'College']
-1)Helen Osborne was born in Auburn .
-2)Ian James Alastair Graham was born in Campsea Ashe .
-3)John Frederick La Trobe Bateman was born in Halifax .
-4)Joseph Robinette Biden III was born in Wilmington .
-5)William Clark Gable was born in Cadiz .
-6)Victoria Alexandra Olga Mary was born in Marlborough House .
-7)Mitchel Lee Hyman was born in New York City .
-8)Henry Pickering Bowditch was born in Boston .
-9)Richard Starkey was born in Liverpool .
-10)Rupert Chawner Brooke was born in Rugby .
-11)Emma Vallencey Freud was born in Liverpool.
-12)
-['London']
-1)Dorothy Jean Dandridge was born in Cleveland .
-2)Isaac Lowthian Bell was born in Newcastle upon Tyne .
-3)Edward Henry Carson was born in Dublin .
-4)Matthew Wayne Shepard was born in Casper .
-5)Peter Sydney Ernest Aylen was born in London .
-6)Rachel Sabiha Johnson was born in London .
-7)Harper Seven Beckham was born in Los Angeles .
-8)Emma Carolyn Margaret Jouannet-Hartley was born in Paris .
-9)William Cecil Dampier Whetham was born in Greater London .
-10)Irene Lilian Creese was born in London .
-11)Ronald Wilson Reagan was born in Choteau, Kentucky
-['Tampico']
-1)Lucy Douglas Cochrane was born in Boston .
-2)Jorie Pepper was born in New York City .
-3)Alfred Bernhard Nobel was born in Jakob and Johanne parish .
-4)Sasha Rebecca Spielberg was born in Los Angeles .
-5)Chelsea Victoria Clinton was born in Little Rock .
-6)Anne Shuttleworth Holden was born in Aston-on-Trent .
-7)Stevland Hardaway Judkins was born in Saginaw .
-8)Almy Oldrin was born in Setauket-East Setauket .
-9)Keith Ian Carradine was born in San Mateo .
-10)Sarah Louise Heath was born in Sandpoint .
-11)Phyllis Dorothy James was born in Fairfield-Inwood
-['Oxford']
-1)Timothy Carew O\'Brien was born in Dublin .
-2)Zeena Galatea LaVey was born in San Francisco .
-3)Julia Romana Howe was born in Rome .
-4)Blanche Marie Louise Oelrichs was born in Newport .
-5)Richard Treat Williams was born in Rowayton .
-6)Maryanne Trump was born in Queens .
-7)Anne Caldwell was born in Staffordshire .
-8)Robert Allen Zimmerman was born in Duluth .
-9)Nala Yasmeen Ivory Wayans was born in United States of America .
-10)Charles Robert Redford was born in Santa Monica .
-11)Edward Ernest Bowen was born in San Francisco.
-12
-['Blessington']
-1)David Charles Henshaw Austin was born in Albrighton .
-2)David Lawrence Ezrin was born in Toronto .
-3)Emily Weddell Acland was born in England .
-4)Jesse Wayne Johnson was born in Los Angeles .
-5)Thomas Spring Rice was born in Hither Green .
-6)Chelsea Victoria Clinton was born in Little Rock .
-7)Ferdinand Romualdez Marcos, Jr. was born in Manila .
-8)Mary FitzClarence was born in London .
-9)Frances Payne Bingham was born in Cleveland .
-10)Susan Charlotte Grosvenor was born in London .
-11)Princess Alexandra Irene Margaretha Elisabeth Bathildis of Hanover was born in London.
-12)
-['Hanover']
-1)Jacqueline-Natalie Klenczon was born in Chicago .
-2)Anna Lucia Attanasio was born in Los Angeles .
-3)Ursula Kroeber was born in Berkeley .
-4)Martha Sharp Crawford von Bülow was born in Manassas .
-5)Narendra Damodardas Modi was born in Vadnagar .
-6)Margaret Greville Foster was born in Wolverhampton .
-7)Thomas Jonathan Jackson was born in Clarksburg .
-8)Lucy Chester was born in Saint John\'s .
-9)William Robert Wills Wilde was born in County Roscommon .
-10)Peter Seeger was born in New York City .
-11)George Orson Welles was born in Kansas City.
-12
-['Kenosha']
-1)Barack Hussein Obama II was born in Kapiolani Medical Center for Women and Children .
-2)Jennifer Leigh Morrow was born in Hollywood .
-3)Francis Wallace Grenfell was born in Swansea .
-4)Gertrude Freudenberg was born in New York City .
-5)Nicholas Winston Soames was born in Croydon .
-6)Daniel Foe was born in London .
-7)Eric Hilliard Nelson was born in Teaneck .
-8)Nicolas Vincent Szurovy was born in New York City .
-9)Samuel Atkinson Waterston was born in Cambridge .
-10)Gordon Howard Eliot Hodgkin was born in Hammersmith .
-11)Christopher John Mottram was born in Chorley.
-
-['Kingston', 'upon', 'Thames']
-1)Garret Colley was born in County Meath .
-2)Thomas Octave Murdoch Sopwith was born in Kensington .
-3)Walter Houghston was born in Toronto .
-4)Diego Zipper Turturro was born in New York City .
-5)James Alastair Stourton was born in York .
-6)Angelo Bartlett Giamatti was born in Boston .
-7)Frederick Michael George David Louis Windsor was born in St. Mary\'s Hospital .
-8)Barack Hussein Obama II was born in Honolulu .
-9)Robert Berkeley was born in Worcester .
-10)Christabel Mary Melville Macnaghten was born in Chelsea .
-11)William Oliver Stone was born in New York City.
-
-['New', 'York', 'City']
-1)Philip of Greece and Denmark was born in Mon Repos .
-2)Eleanor Butler Alexander was born in New York City .
-3)Count Edoardo Alessandro Mapelli Mozzi was born in Portland Hospital .
-4)Norman Otto Olson II was born in Chicago .
-5)Francis Ephraim Cohen was born in London .
-6)Maude Gertrude Annesley Webster-Wedderburn was born in Newcastle-under-Lyme .
-7)Olga Gunderson was born in Wisconsin .
-8)Mary Nesta Skrine was born in County Kildare .
-9)Brandy Rayna Norwood was born in McComb .
-10)Barbara Ann Spooner was born in Birches Green .
-11)Shane Brandon McMahon was born in Los Angeles.
-12
-['Gaithersburg']
-1)Mary Fairfax was born in Jedburgh .
-2)Ann Julia Kemble was born in Worcester .
-3)Walter Scribner Schuyler was born in Ithaca .
-4)Barbara Anne Castle was born in Chesterfield .
-5)Barack Hussein Obama II was born in Kapiolani Medical Center for Women and Children .
-6)Sybil Misch was born in Germany .
-7)Edward Moore Kennedy was born in Dorchester .
-8)Wilmot Reed Hastings, Jr. was born in New Zealand .
-9)Nicolas Vincent Szurovy was born in New York City .
-10)Mary Katherine Keemle Field was born in St. Louis .
-11)Sarah Wedgwood was born in South Carolina.
-12
-['Astbury,', 'Cheshire']
-1)Romeo James Beckham was born in London .
-2)George Ian Duncan Smith was born in Edinburgh .
-3)William Arthur Philip Louis of Wales was born in St. Mary\'s Hospital .
-4)John Henry Brodribb was born in Keinton Mandeville .
-5)Stevland Hardaway Judkins was born in Saginaw .
-6)Nora Stanton Blatch was born in Basingstoke .
-7)Alexander Denys Herbert Parsons was born in London .
-8)Walter Leland Cronkite, Jr. was born in St. Joseph .
-9)Francisco Moreno Domagoso was born in Tondo .
-10)Carleen Cassandra Anderson was born in Houston .
-11)Steven Randall Jackson was born in St. Joseph.
-
-['Gary']
-1)Penelope Mary Knox was born in Lincoln .
-2)John Rankin Rathbone was born in London .
-3)Charles Villiers Stanford was born in Dublin .
-4)Sonya Eleonora Smith Jacquet was born in Philadelphia .
-5)Edmée Elizabeth Monica de la Pasture was born in Steyning .
-6)Mary Marvin Breckinridge was born in New York City .
-7)Daniel Robert Elfman was born in Los Angeles .
-8)Georgiana Charlotte Clive Bayley was born in Marylebone .
-9)Gilbert Charles Stuart was born in North Kingstown .
-10)Marina of Greece and Denmark was born in Athens .
-11)Maria Halle Berry was born in Camden.
-
-Wednesday
-['Cleveland']
-1)Rebecca Jayne Atkinson was born in Dewsbury .
-2)Anna Bronson Alcott was born in Philadelphia .
-3)Almy Oldrin was born in Setauket-East Setauket .
-4)Susannah Yolande Fletcher was born in Chelsea .
-5)John Bird Sumner was born in Kenilworth .
-6)Mary Eglantyne Hill was born in Cambridge .
-7)John Bigelow Dodge was born in New York City .
-8)Timothy John Berners-Lee was born in London .
-9)Bertha Janette Piatt was born in Westbrookville .
-10)Cynthia Ann Nicolich was born in Queens .
-11)Evangeline Cory Booth was born in South Berwick.
-
-['London']
-1)Fred Lincoln Wray, Jr. was born in Dunn .
-2)William Fox was born in London .
-3)Georgiana Charlotte Clive Bayley was born in Marylebone .
-4)Charlotte Carnegie was born in Kinnaird .
-5)Michael David Lindup was born in London .
-6)Neil Timothy Helson was born in Ashland .
-7)Robert Gascoyne Viscount Cecil was born in Cavendish Square .
-8)Anna Eleanor Dall was born in New York City .
-9)Schuyler Elizabeth Fisk was born in Los Angeles .
-10)Margaret Reilly was born in San Antonio .
-11)Arthur Whitten Brown was born in New York.
-12
-['Glasgow']
-1)Peter Reginald Frederick Hall was born in Bury St Edmunds .
-2)James Waddell Alexander was born in Sea Bright .
-3)Barbara Yelverton was born in Brandon .
-4)Ellen Philadelphia Smyth was born in Bedford .
-5)Bryan Thomas Mahon was born in Galway .
-6)Julian Paul Hawkins was born in Townsville .
-7)Matilda Charlotte Vining was born in Liverpool .
-8)Robert Rutherford McCormick was born in Chicago .
-9)Rachel Meghan Markle was born in Canoga Park .
-10)Edith Newbold Jones was born in New York City .
-11)Herbert John Louis Hinkler was born in Bly, Buckinghamshire
-['Bundaberg']
-1)James Franklin Archibald Bland was born in Abbots Worthy .
-2)Maud Charlotte Mary Victoria was born in Marlborough House .
-3)William James Pirrie was born in Quebec City .
-4)Mary Pierrepont was born in Nottingham .
-5)Victoria Alexandrina Maria Louisa Stuart-Wortley was born in London .
-6)Edwin John Fisher was born in Philadelphia .
-7)Mary Rothes Margaret Tyssen-Amherst was born in Norfolk .
-8)Mary Duke Biddle was born in New York City .
-9)Carole Elizabeth Goldsmith was born in Perivale .
-10)Stanislaus Pascal Franchot Tone was born in Niagara Falls .
-11)James Butler Hickok was born in Philadelphia.
-12)
-['Troy', 'Grove']
-1)Julia Stanley was born in Liverpool .
-2)Albert Henry Knattriess was born in Normanton .
-3)Joseph Don Carlos Young was born in Salt Lake City .
-4)James Jackson Storrow II was born in Boston .
-5)Val Edward Kilmer was born in Los Angeles .
-6)Scarlett Ingrid Johansson Sloan was born in Manhattan .
-7)Anna Eleanor Roosevelt was born in New York City .
-8)Frederick Christ Trump was born in The Bronx .
-9)Gertrude Vanderbilt was born in Manhattan .
-10)Francis Edward Spring was born in County Cork .
-11)John Bowring was born in Belfast.
-12)
-['Exeter']
-1)Scott Clinton Reeves was born in Carmel-by-the-Sea .
-2)Sorel Johannah Carradine was born in Los Angeles .
-3)Michael Rubens Bloomberg was born in Boston .
-4)John Adam Belushi was born in Humboldt Park .
-5)Thomas Cruise Mapother IV was born in Syracuse .
-6)Evelyn Georgianna Sears was born in Waltham .
-7)Anne Constance Jackson was born in Swordale, Ross-shire .
-8)Henry Zuckerman was born in New York City .
-9)John Henry Brodribb was born in Keinton Mandeville .
-10)Cecilia Cavendish-Bentinck was born in London .
-11)Brandon Cole Margera was born in Portland-Mercer.
-['West', 'Chester']
-1)Lady Cynthia Elinor Beatrix Hamilton was born in London .
-2)Genevieve Caroline Wines was born in Ruby Valley .
-3)Stephen Arnold Douglas was born in Brandon .
-4)Douglas McGarel Hogg was born in London .
-5)Martin Hayter Short was born in Hamilton .
-6)Naomi Eleanor Clare Ellington Jacob was born in Ripon .
-7)Mary Amabel Nassau Strachey was born in Newlands Corner .
-8)Joseph Hillstrom King was born in Maine .
-9)David Richard Beatty was born in County Wexford .
-10)Melissa Warburg Rosenburg was born in New York City .
-11)Marie Dolores Eliza Rosanna Gilbert was born in Montreal.
-12)
-['Grange,', 'County', 'Sligo']
-1)Grace Graham Wilson was born in New York City .
-2)Michael Hunter Butler was born in La Jolla .
-3)Vernita Lee Presley was born in Kosciusko .
-4)Christopher Allen Lloyd was born in Stamford .
-5)Frances Ruth Roche was born in Sandringham .
-6)Marjorie Armstrong Post was born in Palo Alto .
-7)Arthur Asher Miller was born in New York City .
-8)Elisabeth Joy Greene was born in Melbourne .
-9)Katharine Edith Carlotta Norton was born in London .
-10)Harry Lillis Crosby was born in Tacoma .
-11)Charity Hamilton was born in Paris.
-12)
-['Kent']
-1)Dorothea Frances Canfield was born in Lawrence .
-2)Charles Leonard Woolley was born in Upper Clapton .
-3)Susan Ker Weld was born in New York City .
-4)Kathleen Cash was born in Memphis .
-5)Walter Howard Frere was born in Cambridge .
-6)Edith Bernal Osborne was born in Clonmel .
-7)Rachel Sabiha Johnson was born in London .
-8)Ava Lavinia Gardner was born in Grabtown, Johnston County, North Carolina .
-9)Mary Morris was born in Red House .
-10)Terrence Steven McQueen was born in Beech Grove .
-11)Mary Frances Reynolds was born in Elizabethton.
-12
-['El', 'Paso']
-1)Almy Oldrin was born in Setauket-East Setauket .
-2)Edith Agnes Kathleen Bruce was born in Nottinghamshire .
-3)Joan Alexandra Molinsky was born in Brooklyn .
-4)John Stuart Agnew was born in Norwich .
-5)George Corley Wallace, III was born in Eufaula .
-6)Mary Nesta Skrine was born in County Kildare .
-7)Mary Balfour was born in Barra .
-8)Olivia Jane d\'Abo was born in London .
-9)Alfred Bernhard Nobel was born in Stockholm .
-10)Lawrance Itumeleng Manganyi was born in Ga-Rankuwa .
-11)Francis Edward Spring was born in London.
-12)
-['County', 'Cork']
-1)Eleanor Butler Alexander was born in New York City .
-2)Herbert Austin was born in Little Missenden .
-3)Thea Dearden Queen was born in Star City .
-4)Vernita Lee Presley was born in Kosciusko .
+['Yorkshire']
+1)Esther Frances Alexander was born in Boston .
+2)Domenica Costa was born in Tokyo .
+3)Alexander John Gosse Downer was born in Adelaide .
+4)Alfred Matthew Yankovic was born in Downey .
+5)Nicholas Robert Hytner was born in Didsbury .
+6)Joseph Thomas Sheridan Le Fanu was born in London.
+7)
+['Dublin']
+1)Maybelle Addington was born in Nickelsville .
+2)Amy Curtis March was born in United States of America .
+3)Michelle LaVaughn Robinson was born in Chicago .
+4)Martha Campbell Carradine was born in New York City .
+5)John Magee Finny was born in Dublin .
+6)Charles Warren Fairbanks was born in Los Angeles.
+7
+['Unionville', 'Center']
+1)Michael Douglas Aldo Stirpe was born in Toronto .
+2)Florence Mabel Kling was born in Marion .
+3)Sheldon James Plankton was born in Bikini Bottom .
+4)Frances Perdita Aldington was born in London .
+5)Allan Stewart Konigsberg was born in The Bronx .
+6)Robert Erskine Childers was born in Detroit.
+7)
+['Mayfair']
+1)Edith Bernal Osborne was born in Clonmel .
+2)William Edward Haslam was born in Knoxville .
+3)Charles Tennyson was born in Somersby .
+4)Victoria Jemma Butler-Henderson was born in Hertfordshire .
 5)Daniel Foe was born in Ward of Cripplegate .
-6)Dean Gooderham Acheson was born in Middletown .
-7)Betty Joan Perske was born in The Bronx .
-8)Yolande was born in Casale Monferrato .
-9)Georgina Mary Beatrice Downer was born in City of Brussels .
-10)Lionel Herbert Blythe was born in Philadelphia .
-11)Hans Anthony Beimler was born in Basingstoke.
-['Mexico', 'City']
-1)Katharine Dunfee Clarke was born in Santa Monica .
-2)Christian Michael Leonard Slater was born in New York City .
-3)Elizabeth Le Marchant de Saint Michel was born in Bideford .
-4)Madonna Louise Ciccone was born in Bay City .
-5)Anders Leonard Zorn was born in Mora .
-6)Emily Weddell Acland was born in England .
-7)Jermaine La Jaune Jackson was born in Gary .
-8)Anne Ferelith Fenella Bowes-Lyon was born in Washington, D.C. .
-9)James Thomas Brudenell was born in Hambleden .
-10)Frances Payne Bingham was born in Cleveland .
-11)Catherine Sarah Lee was born in San Bernardino.
-12
-['Lexington']
-1)Charles Grant Blairfindie Allen was born in Kingston .
-2)Martin Hayter Short was born in Hamilton .
-3)Walter Howard Frere was born in Cambridge .
-4)Farrah Leni Fawcett was born in Corpus Christi .
-5)Marvin Pentz Gay, Jr. was born in Washington, D.C. .
-6)Katherine Elizabeth Upton was born in St. Joseph .
-7)Terrance Stanley Fox was born in Winnipeg .
-8)Margaret Rose was born in Glamis Castle .
-9)Katharine Dunfee Clarke was born in Santa Monica .
-10)Julia Boggs Dent was born in St. Louis .
-11)Emily Elizabeth Dickinson was born in Lowell.
-12)
-['Amherst']
-1)Benjamin Tasker Jr. was born in Annapolis .
-2)Abigail May was born in Boston .
-3)Arthur Asher Miller was born in New York City .
-4)Mary Temple Grandin was born in Boston .
-5)Winifred Amy Hart Dyke was born in Colchester .
-6)Hugh Marston Hefner was born in Chicago .
-7)Herbert Lionel Adolphus Hart was born in Harrogate .
-8)Margaret Haig Thomas was born in Bayswater .
-9)Mary Marvin Breckinridge was born in New York City .
-10)Robin Caspar Walker was born in West Midlands .
-11)Frances Anne Beaufort was born in New York City.
+6)Virginia Belle Terhune was born in Cappagh.
 
-['Navan']
-1)Charles Villiers Stanford was born in Dublin .
-2)Kate Elizabeth Winslet was born in Reading .
-3)Solange Piaget Knowles was born in Houston .
-4)Edith Matilda Clara Kimball was born in Chicago .
-5)Folarin Falana was born in Lagos .
-6)Victoria Alexandrina Maria Louisa Stuart-Wortley was born in London .
-7)Anna Lucia Attanasio was born in Los Angeles .
-8)Eleanor Geisman was born in The Bronx .
-9)John Jeremy Thorpe was born in South Kensington .
-10)Penelope Washburn Standley was born in Missouri .
-11)Frances Burney was born in South Carolina.
-12
-["King\\'s", 'Lynn']
-1)Richard Pepper Arden was born in Bredbury .
-2)Abraham Bailey was born in Cape Colony .
-3)Georgiana Charlotte Clive Bayley was born in Marylebone .
-4)Sarah Margaret Ferguson was born in London Welbeck Hospital .
-5)Edward Dunbar was born in Duffus .
-6)Katharine Jean Whitaker was born in London .
-7)Dolly Kirwan was born in Montserrat .
-8)Vere Thomas Goold was born in Waterford .
-9)Micheal McElroy was born in Aurora .
-10)Douglas McGarel Hogg was born in London .
-11)Philip John Baker was born in London.
-12)
-['Hendon']
-1)Cherilyn Sarkisian was born in El Centro .
-2)Mary Theresa Johnson was born in Great Torrington .
-3)Anna Raymond Massey was born in Thakeham .
-4)Mitchel Lee Hyman was born in New York City .
-5)John Michael Osbourne was born in Birmingham .
-6)John Griffith Chaney Lobondon was born in San Francisco .
-7)Elizabeth March was born in United States of America .
-8)Lady Diana Olivia Winifred Maud Manners was born in Bruton Street .
-9)Murry Gage Wilson was born in Hutchinson .
-10)Joanne Rowling was born in Yate .
-11)Constance Georgine Gore-Booth was born in Harlow.
-12
-['London']
-1)Catherine Ball was born in Lambourne .
-2)Sonia Annabel Shand was born in Lambeth .
-3)Ann Katharine Williamson was born in Oxford .
-4)Margaret Charlotte French was born in Ripple .
-5)John Quincy Adams was born in Braintree .
-6)Adrian Cedric Boult was born in Chester .
-7)Anne Eliza Foster was born in Mercersburg .
-8)Robert Junior Kardashian was born in Los Angeles .
-9)Elizabeth Jane Pfeffer was born in New Orleans .
-10)Edward Frank Willis James was born in West Dean House .
-11)Joseph Francis Keaton VI was born in Boston.
-12)
-['Piqua']
-1)Philip Owen Arnould Popham was born in Oxford .
-2)Jeremy Bernard Corbyn was born in Chippenham .
-3)Robert Anthony De Niro Jr was born in New York City .
-4)James Henry Mussen Campbell was born in Dublin .
-5)Stewart Robert Einstein was born in Los Angeles .
-6)Farrah Leni Fawcett was born in Corpus Christi .
-7)Albert Victor Alexander was born in Weston-super-Mare .
-8)Laura Lane Welch was born in Midland .
-9)Richard Walter John Montagu Douglas Scott was born in Edinburgh .
-10)James Danforth Quayle was born in Indianapolis .
-11)William Morrison Charlap was born in Baltimore.
-12)
-['New', 'York', 'City']
-1)Satchel Ronan O\'Sullivan Farrow was born in New York City .
-2)Gottlieb Wilhelm Leitner was born in Budapest .
-3)David Howell Petraeus was born in New York City .
-4)Charles Warren Fairbanks was born in Unionville Center .
-5)Flora Louisa Cecilia MacLeod was born in 10 Downing Street .
-6)Edgar Allan Poe was born in Boston .
-7)Peter Brian Gabriel was born in Chobham .
-8)Mary Morris was born in Red House .
-9)Sierra Loren Ballard was born in Louisiana .
-10)Antony Charles Robert Armstrong-Jones was born in Belgravia .
-11)Jeremy Shu-How Lin was born in San Francisco.
-12
-['Los', 'Angeles']
-1)Amy Curtis March was born in United States of America .
-2)Valerie de Ferranti was born in Baslow .
-3)Mark Langer Avery was born in Sydney .
-4)Martha Coffin was born in Boston .
-5)Algernon Edward West was born in London .
-6)Hugh Denis Charles FitzRoy was born in Cape Town .
-7)Robert Wyatt Ellidge was born in Bristol .
-8)Miles Axe Copeland III was born in London .
-9)Mary Nesta Skrine was born in County Kildare .
-10)Susan Ker Weld was born in New York City .
-11)Lauren Alaina Kristine Suddeth was born in London.
-12)
-['Rossville']
-1)Peter Brian Gabriel was born in Chobham .
-2)Rafael Edward Cruz was born in Calgary .
-3)David Henry Thoreau was born in Wheeler-Minot Farmhouse .
-4)Katharine Jean Whitaker was born in London .
-5)Robert Spear Hudson was born in London .
-6)James Louis McCartney was born in London .
-7)Robert Nesta Marley was born in Nine Mile .
-8)Princess Helena Frances Augusta of Teck was born in Grosvenor House .
-9)Honora M. Finn was born in Cardiff .
-10)Anna Raymond Massey was born in Thakeham .
-11)Jonathan Hopkin Hill was born in London.
-12)
-['London']
-1)William Barron Hilton was born in Dallas .
-2)Albus Percival Wulfric Brian Dumbledore was born in Mould-on-the-Wold .
-3)Stefani Joanne Angelina Germanotta was born in New York City .
-4)Harriet Jane Tremayne was born in London .
-5)Beryl Catherine Myatt was born in Leigh-on-Sea .
-6)Thomas Robert Malthus was born in Surrey .
-7)Alecia Beth Moore was born in Doylestown .
-8)Flora Alexandra Ogilvy was born in Edinburgh .
-9)Julia O\'Hara Stiles was born in New York City .
-10)Wilmot Reed Hastings, Jr. was born in New Zealand .
-11)Michael Ayrton Gould was born in New York City.
-
-['St', 'Pancras']
-1)The Honourable Louis Charles Alexander Herbert was born in Salisbury District Hospital .
-2)Princess Alexandra Caroline Marie Charlotte Louise Julia of Schleswig-Holstein-Sonderburg-Glücksburg was born in Yellow Palace .
-3)Ernest Roland Wilberforce was born in Brighstone .
-4)Mary Stevenson Cassatt was born in Allegheny .
-5)Maria Louise Newman was born in Los Angeles .
-6)Adeline Flora Campbell was born in Whitby .
-7)George Limbrey Sclater was born in London .
-8)Anna Rebecca Hall was born in New York City .
-9)Steven Leslie Hooker was born in Melbourne .
-10)Richard Burdon Haldane was born in Edinburgh .
-11)Willard Christopher Smith III was born in West Orange.
-12
-['Los', 'Angeles']
-1)Joseph Don Carlos Young was born in Salt Lake City .
-2)Booker Taliaferro Washington was born in Hale\'s Ford .
-3)Kathleen Annie Pannonica Rothschild was born in London .
-4)Eddie August Henry Schneider was born in Manhattan .
-5)Charles Synge Christopher Bowen was born in Gloucestershire .
-6)Victoria Adelaide Mary Louisa was born in Buckingham Palace .
-7)Alice of Saxe-Coburg and Gotha was born in Buckingham Palace .
-8)Alexandra Georgette Christian was born in Palermo .
-9)Anna Eleanor Roosevelt was born in New York City .
-10)Jason Patric Miller Jr. was born in Queens .
-11)Hugh John Mungo Grant was born in New Orleans.
-12
-['Charing', 'Cross', 'Hospital']
-1)Caylee Marie Anthony was born in Orlando .
-2)Murry Gage Wilson was born in Hutchinson .
-3)Matthew Hansen Mead was born in Jackson .
-4)Charis Ursula Barnett was born in Isleworth .
-5)William St. John Fremantle Brodrick was born in London .
-6)Robert Wyatt Ellidge was born in Bristol .
-7)James Paul McCartney was born in Liverpool .
-8)Robert Robert Livingston was born in New York City .
-9)Clive Staples Lewis was born in Belfast .
-10)George Brinton McClellan was born in Philadelphia .
-11)Carly Elisabeth Simon was born in London.
-12)
-['The', 'Bronx']
-1)Nora Terese Kenny was born in Studio City .
-2)Katherine Penelope Shonfield was born in London .
-3)Edward Bridge Danson III was born in San Diego .
-4)John William Cummings was born in Long Island .
-5)Tyrone Edmund Power was born in Cincinnati .
-6)Alexander Medawar Garland was born in London .
-7)Mary Pearsall Smith was born in Philadelphia .
-8)Mary Johns Coleman was born in Los Angeles .
-9)Bryan James Spears was born in Kentwood .
-10)Patience Mary Bragg was born in Manchester .
-11)Thomas Jonathan Jackson was born in New Jersey.
-12
-['Clarksburg']
-1)Abraham Bailey was born in Cape Colony .
-2)John Christopher Depp III was born in Paris .
-3)James Beauchamp Clark was born in Lawrenceburg .
-4)Mary Stuart Harrison was born in Charlottesville .
-5)Elizabeth Hervey was born in Horringer .
-6)Eric Frederick Trump was born in Manhattan .
-7)Leonard Albert Kravitz was born in New York City .
-8)Lucile Vasconcellos Langhanke was born in Quincy .
-9)Harriet Mulford Stone was born in New Haven .
-10)Ann Elizabeth Oldfield Havers was born in Buckinghamshire .
-11)Irene Lilian Creese was born in Cape Town.
-12
-['London']
-1)Mary Ann Bessy Terry was born in London .
-2)Thomas Dalyell Loch was born in Edinburgh .
-3)Dean George Tanaka was born in Mount Clemens .
-4)Jorie Pepper was born in New York City .
-5)Victoria Jemma Butler-Henderson was born in Hertfordshire .
-6)Thomas Robert Malthus was born in Westcott .
-7)Donough Edward Foster O\'Brien was born in London .
-8)Grace Patricia Kelly was born in Philadelphia .
-9)James Maitland Stewart was born in Indiana County .
-10)Anna Lucia Attanasio was born in Los Angeles .
-11)Leonard Marx was born in Kansas City.
-12
-['Manhattan']
-1)Alix Victoria Helena Louise Beatrice was born in Darmstadt .
-2)Alexander Denys Herbert Parsons was born in London .
-3)Archibald Vivian Hill was born in Bristol .
-4)Robert Sargent Shriver was born in Westminster .
-5)Farrokh Bulsara was born in Stone Town .
-6)David Charles Henshaw Austin was born in Shropshire .
-7)Priscilla Ann Wagner was born in Brooklyn .
-8)Mary Elizabeth Donaldson was born in Hobart .
-9)John Frederick La Trobe Bateman was born in Halifax .
-10)Quincy Delight Jones III was born in London .
-11)Joseph Mansfield was born in Cleveland.
-12)
-['Salt', 'Lake', 'City']
-1)Quincy Taylor Brown was born in New York City .
-2)Janet Isabella Wedderburn was born in George Street .
-3)Daniel Nicholas Butler was born in Chula Vista .
-4)Nancy Helena Columbia Palmer was born in Chicago .
-5)Barron William Trump was born in Manhattan .
-6)Blanche Marie Louise Oelrichs was born in Newport .
-7)Robert Michael Maitland Stewart was born in Bromley .
-8)Francesca Ruth Fisher-Eastwood was born in Redding .
-9)James Arthur Lovell Jr. was born in Cleveland .
-10)Melvin Kaminsky was born in Brooklyn .
-11)Amelia Sophia Theodora Mary Margaret Windsor was born in New York City.
-
-['Rosie', 'Hospital']
-1)Josephine Sophia Ivalo Mathilda of Denmark was born in Copenhagen .
-2)Zerelda Elizabeth Cole was born in Woodford County .
-3)Andrew Maurice Gold was born in Burbank .
-4)Anne Harriman was born in New York City .
-5)Malia Obama was born in University of Chicago Medical Center .
-6)Maud Howe was born in Perkins School for the Blind .
-7)Anna Bronson Alcott was born in Philadelphia .
-8)Herbert William Davis was born in County Waterford .
-9)James Hillier Blount was born in Tidworth .
-10)Britney Jean Spears was born in McComb .
-11)Blanche LeRoy Shoemaker was born in Memphis.
-12)
-['Larchmont']
-1)Kendall Nicole Jenner was born in Los Angeles .
-2)Beyonce Giselle Knowles was born in Houston .
-3)Thomas Robert Malthus was born in Surrey .
-4)Princess Louise Marie Auguste of Baden was born in Karlsruhe .
-5)Lawrance Itumeleng Manganyi was born in Ga-Rankuwa .
-6)Carlos Irwin Estévez was born in New York City .
-7)Edward Joseph Snowden was born in Elizabeth City .
-8)Ian Richard Kyle Paisley was born in Belfast .
-9)David Milne was born in East Lothian .
-10)Antonia Caetana de Paiva Pereira Maury was born in Cold Spring .
-11)Charlotte Bertie was born in Edinburgh.
-12)
-['Uffington']
-1)Hubert de la Poer Gough was born in County Waterford .
-2)Damian Robert Nesta Marley was born in Kingston .
-3)Harriet Melusina Fay was born in Burlington .
-4)Stephen Ian Fairbairn was born in Melbourne .
-5)Edith Newbold Jones was born in New York City .
-6)George Roger Waters was born in Great Bookham .
-7)Diana Frances Spencer was born in Sandringham .
-8)Charles Lutwidge Dodgson was born in Daresbury .
-9)Steven Leslie Hooker was born in Melbourne .
-10)Elsie Kipling was born in Vermont .
-11)Eugene Curran Kelly was born in New York City.
-
-['Pittsburgh']
-1)Helen Clay Frick was born in Pittsburgh .
-2)Reginald Kenneth Dwight was born in Pinner .
-3)Kobe Bean Bryant was born in Philadelphia .
-4)Alexander Francis Zemeckis was born in Los Angeles .
-5)Jorie Pepper was born in New York City .
-6)William Griffith Wilson was born in Dorset .
-7)William David Butler Adams was born in London .
-8)Samuel Phillips Huntington was born in New York City .
-9)David Bruce Cassidy was born in New York City .
-10)Joanne Rowling was born in Yate .
-11)Benjamin Collins Brodie was born in Pittsburgh.
-12)
-['London']
-1)Michael Sylvester Gardenzio Stallone was born in Hell\'s Kitchen .
-2)John Paul Hammond was born in New York City .
-3)John Frederick La Trobe Bateman was born in Halifax .
-4)Michael Jeffrey Jordan was born in Brooklyn .
-5)Peter Paul Montgomery Buttigieg was born in South Bend .
-6)Arthur Henry Hallam was born in London .
-7)Diane de Poitiers was born in Saint-Vallier .
-8)John Herschel Glenn was born in Cambridge .
-9)Count Edoardo Alessandro Mapelli Mozzi was born in Portland Hospital .
-10)Joakim Simon Noah was born in New York City .
-11)Elisabeth Susanne Heyerdahl was born in Oslo.
-12)
-['Oslo']
-1)Bertram Clough Williams-Ellis was born in Gayton .
-2)Milica Bogdanovna Jovovich was born in Kyiv .
-3)Ashlee Nicole Simpson was born in Waco .
-4)Samuel Atkinson Waterston was born in Cambridge .
+['Newark']
+1)John Calvin was born in Plymouth Notch .
+2)Lilian Barbara Yeomans was born in Madoc .
+3)Cressida Curzon Bonas was born in Winchester .
+4)Maybelle Addington was born in Nickelsville .
 5)Ernest Dunlop Swinton was born in Bengaluru .
-6)Mary Anna Randolph Custis was born in Clarke County .
-7)Louisa Molesworth was born in Dublin .
-8)Isabella Delves Broughton was born in Marylebone .
-9)William Pettus Hobby, Jr. was born in Houston .
-10)Lisabeth Mary Shatner was born in West Hollywood .
-11)Victoria Alexandra Olga Mary was born in Minsk.
-
-
-['Marlborough', 'House']
-1)George Brinton McClellan was born in Philadelphia .
-2)Hastings Lionel Ismay was born in Nainital .
-3)Mary Ann Bessy Terry was born in London .
-4)Richard Henry Seller was born in Southsea .
-5)Beryl Catherine Myatt was born in Leigh-on-Sea .
-6)Richard Henry Sellers was born in Southsea .
-7)Jesse Woodson James was born in Kearney .
-8)John N.B. Villiers-Farrow was born in Sydney .
-9)Robert Ruliph Morgan Carpenter Jr. was born in Wilmington .
-10)Josephine Sophia Ivalo Mathilda of Denmark was born in Copenhagen .
-11)Susannah Yolande Fletcher was born in Edinburgh.
-12)
-['Chelsea']
-1)Amber Rose Tamara Le Bon was born in London .
-2)Alanson Bigelow Houghton was born in Cambridge .
-3)Marianne Evelyn Gabriel Faithfull was born in Hampstead .
-4)Frances Payne Bingham was born in Cleveland .
-5)Michael Herbert Rudolf Knatchbull was born in London .
-6)Julia Dent Grant was born in White House .
-7)Henry Edzell Morgan Lindsay was born in Tredegar Park .
-8)Margery Louise Allingham was born in Ealing .
-9)William George Armstrong was born in Newcastle upon Tyne .
-10)Susan Jacobson was born in New York .
-11)The Honourable Louis Charles Alexander Herbert was born in Edinburgh.
-12)
-['Salisbury', 'District', 'Hospital']
-1)Alexander Amin Casper Keynes was born in London Borough of Camden .
-2)Ian Richard Kyle Paisley was born in Armagh .
-3)Linda Carroll Hamilton was born in Salisbury .
-4)Walter Houghston was born in Toronto .
-5)Phra Ong Chao Aphakon Kiattiwong was born in Bangkok .
-6)Spencer William Gore was born in Wimbledon .
-7)Elizabeth Hervey was born in Horringer .
-8)Luca Urs Richard de la Wyke Wrottesley was born in Zürich .
-9)Edward Charles Morrice Fox was born in Chelsea .
-10)Martha Coffin was born in Boston .
-11)Carrie Marie Underwood was born in Brooklyn.
-12)
-['Checotah']
-1)Michael Kirk Douglas was born in New Brunswick .
-2)Charlotte Garrigue was born in Brooklyn .
-3)Ruth Baird Bryan was born in Jacksonville .
-4)Richard Samuel Attenborough was born in Cambridge .
-5)Terrance Stanley Fox was born in Winnipeg .
-6)Cecilia May Gibbs was born in Sydenham .
-7)Damian Robert Nesta Marley was born in Kingston .
-8)Jamie Robert Murray was born in Dunblane .
-9)Evangeline Cory Booth was born in South Hackney .
-10)St. George William Lane Lane Fox was born in Malta .
-11)Mary Ann Bessy Terry was born in London.
-12)
+6)Anne Mary Flower was born in Bath.
+7)
 ['London']
-1)Benedict Richard O\'Gorman Anderson was born in Kunming .
-2)Victoria Jemma Butler-Henderson was born in Hertfordshire .
-3)Adam Delmar Carpenter was born in Arlington .
-4)Edward Marlborough Purcell was born in Woodbridge .
-5)Marlon Brando Junior was born in Omaha .
-6)Jessie Woodrow Wilson was born in Gainesville .
-7)Donald John Trump was born in Manhattan .
-8)Thomas Spring Rice was born in Hither Green .
-9)Hubert Hastings Parry was born in Bournemouth .
-10)Marjorie Gwynne Gould was born in Manhattan .
-11)John Brown was born in Kingston Upon Hull.
+1)Madonna Louise Ciccone was born in Bay City .
+2)Mary Ann Palfrey was born in Boston .
+3)Frederick Austerlit was born in Omaha .
+4)Willard Christopher Smith III was born in Los Angeles .
+5)Linda Louise Eastman was born in Scarsdale .
+6)Gilbert Charles Stuart was born in Cleveland.
+7)
+['North', 'Kingstown']
+1)Harriet Jane Morahan was born in Lambeth .
+2)Thomas Oliver Chaplin was born in Hastings .
+3)Thomas Robert Malthus was born in Surrey .
+4)Edith Charlotte Bury Palliser was born in Comraghs .
+5)Rachel Pearsall Conn Costelloe was born in Westminster .
+6)Fatima Rashid was born in Liverpool.
+7)
+['Kolkata']
+1)Stephen Harold Spender was born in Kensington .
+2)Antonio Cipriani was born in Liberty City .
+3)George Robert Stowe Mead was born in London Borough of Southwark .
+4)Norman Kingsley Mailer was born in Long Branch .
+5)Spencer George Matthews was born in Grantham .
+6)Donald John Trump was born in New York County.
+
+['Jamaica', 'Hospital']
+1)Joseph Albert Pease, 1st Baron Gainford was born in Darlington .
+2)Amy Belle Sawyer Stiller was born in New York City .
+3)Katharine Edith Carlotta Norton was born in London .
+4)Benjamin Edward Meara Stiller was born in New York City .
+5)Damini Ebunoluwa Ogulu was born in Port Harcourt .
+6)Mary Anne Roscoe was born in New York City.
+
+['Liverpool']
+1)Willard Mitt Romney was born in Detroit .
+2)Carey Anthony Wilson Jr. was born in Los Angeles .
+3)Macaulay Carson Culkin was born in Manhattan .
+4)Maude Gertrude Annesley Webster-Wedderburn was born in Newcastle-under-Lyme .
+5)Percy Rivington Pyne II was born in Manhattan .
+6)Bek David Campbell was born in London.
+7)
+['Los', 'Angeles']
+1)Evan Frederick Morgan was born in London .
+2)Esther Jane Williams was born in Inglewood .
+3)Melesina Chenevix was born in Dublin .
+4)Robert Allen Zimmerman was born in Duluth .
+5)Lee Parkin Starkey was born in London .
+6)Satchel Ronan O\'Sullivan Farrow was born in London.
+7)
+['New', 'York', 'City']
+1)Gladys Louise Smith was born in Toronto .
+2)Francis Edward Spring was born in County Cork .
+3)Mary Ann Drummond was born in Manchester .
+4)Edward Gough Whitlam was born in Gough Whitlam\'s birthplace .
+5)Hugh Denis Charles FitzRoy was born in Cape Town .
+6)John Frederick La Trobe Bateman was born in Port Elizabeth.
+
+
+['Halifax']
+1)Arthur William Wentworth Charles Gore was born in Lyndhurst .
+2)Aldrovand Peale was born in Philadelphia .
+3)Benjamin Collins Brodie was born in London .
+4)Sierra Loren Ballard was born in Louisiana .
+5)Iona Mary Colquhoun was born in Edinburgh .
+6)Elizabeth Harriet Beecher was born in New York.
+7
+['Litchfield']
+1)Natasha Obama was born in University of Chicago Medical Center .
+2)Henrietta Anne Heathorn was born in Maidstone .
+3)Ronald William Howard was born in Duncan .
+4)John Rankin Rathbone was born in London .
+5)Robert Swan Mueller III was born in New York City .
+6)Almy Kinner was born in New Orleans.
+7
+['Stony', 'Brook']
+1)Catherine Ball was born in Lambourne .
+2)Linda Carroll Hamilton was born in Salisbury .
+3)Lionel Herbert Blythe was born in Philadelphia .
+4)Isabella Amaryllis Charlotte Anstruther-Gough-Calthorpe was born in Winchester .
+5)Sally Cecilia Hawkins was born in Dulwich .
+6)Milo George Talbot was born in Bristol.
+7)
+['Malahide']
+1)Hannah Harriet Pedlingham Hill was born in London .
+2)Louisa Cutler Ward was born in New York City .
+3)Emilie Baker was born in Boston .
+4)Eleanor Spencer Smith was born in Brighton .
+5)Theresa Anne Villiers was born in London .
+6)Andrew Cunningham Wilson was born in London.
+
+In
+['Dallas']
+1)Philippa Garrett Fawcett was born in Brighton .
+2)Tyrone Edmund Power was born in Cincinnati .
+3)David Storr Unwin was born in London .
+4)Jefferson Charka Davis Riddle was born in Oregon .
+5)Oliver Julian Patrick was born in Los Angeles .
+6)Tauna Kay Vandeweghe was born in Detroit.
+7)
+['Green', 'Valley']
+1)Richard Pepper Arden was born in Bredbury .
+2)Robert Erskine Childers was born in Mayfair .
+3)Margaretha Désirée Victoria of Sweden was born in Haga Palace .
+4)John Arthur Carradine was born in Hollywood .
+5)Donough Edward Foster O\'Brien was born in London .
+6)Rupert James Hector Everett was born in London.
+7)
+['Burnham', 'Deepdale']
+1)Natalie Maria Cole was born in Los Angeles .
+2)Robert Gascoyne Viscount Cecil was born in Cavendish Square .
+3)Margery Louise Allingham was born in Ealing .
+4)Thomas George Baring was born in London .
+5)Spencer William Gore was born in Wimbledon .
+6)Wyatt Matthew Halliwell was born in London.
+7)
+['San', 'Francisco']
+1)Kathleen Lilian Agnes Tuckey was born in Godalming .
+2)Princess Victoria Constance Mary of Teck was born in White Lodge .
+3)Morgan Kathryn Reynolds was born in San Diego .
+4)Eliza Sophie Caird was born in London .
+5)Quincy Delight Jones III was born in London .
+6)Harriet Jane Tremayne was born in Philadelphia.
+7)
+['London']
+1)Philip Andre Rourke, Jr. was born in Schenectady .
+2)Charles Samuel Addams was born in Westfield .
+3)Jean Wedderburn was born in Edinburgh .
+4)Andrew Judde was born in Tonbridge .
+5)Harold Martin Burrough was born in Herefordshire .
+6)Joanne Rowling was born in Iona, Ontario.
+['Yate']
+1)Jonathan Arthur DeBarge was born in Detroit .
+2)George Gordon Byron was born in London .
+3)Aretha Louise Franklin was born in Memphis .
+4)Thomas Robert Malthus was born in Surrey .
+5)Alex James Murphy was born in Wakefield .
+6)Robert von Ranke Graves was born in Leipzig.
+
+['Wimbledon']
+1)Jeffrey Edward Epstein was born in Brooklyn .
+2)James Thomas Brudenell was born in Hambleden .
+3)Leonard Alan Lauder was born in New York City .
+4)Susan Margaret Collins was born in Caribou .
+5)Walter Scribner Schuyler was born in Ithaca .
+6)Stephen Higginson Tyng was born in New York City.
+
+['Newburyport']
+1)Margaret Germaine Palfrey was born in Boston .
+2)The Honourable Louis Charles Alexander Herbert was born in Salisbury District Hospital .
+3)Alice Sophia Cunningham was born in Petersfield .
+4)Carey Anthony Wilson Jr. was born in Los Angeles .
+5)Mary Pearsall Smith was born in Philadelphia .
+6)Moxie CrimeFighter Jillette was born in Charlotte County.
+7
+['Las', 'Vegas']
+1)Margarita Elizabeth Rose Alleyne Armstrong-Jones was born in Portland Hospital .
+2)Sarah Wedgwood was born in Astbury, Cheshire .
+3)Richard Hussey Vivian was born in Truro .
+4)Michael Herbert Rudolf Knatchbull was born in London .
+5)Lorillard Suydam Spencer, Sr. was born in Manhattan .
+6)Barrimore Matthew St Leger was born in London.
+7)
+['County', 'Kildare']
+1)Samuel Irving Newhouse Jr. was born in New York City .
+2)Juliet Kathryn Jouannet-Hartley was born in Westminster .
+3)Archibald Charles Montagu Brabazon Acheson was born in London .
+4)James Clark Ross was born in London .
+5)Edith Margaret Emily Ashcroft was born in Surrey .
+6)Elsie Kipling was born in London.
+7)
+['Vermont']
+1)Edward Dunbar was born in Duffus .
+2)Frank Armstrong Crawford was born in Mobile .
+3)Henry Sacheverell Carleton Richardson was born in Irvinestown .
+4)Hugh John Mungo Grant was born in Charing Cross Hospital .
+5)Matthew Clive Pinsent was born in Holt .
+6)Jefferson Finis Davis was born in Birmingham.
+7)
+['Fairview']
+1)Henry Zuckerman was born in New York City .
+2)Anna Bronson Alcott was born in Philadelphia .
+3)Wilbur Lincoln Scoville was born in Bridgeport .
+4)Anna Cabot Lowell Quincy was born in Boston .
+5)The Honourable Louis Charles Alexander Herbert was born in Salisbury District Hospital .
+6)Susan Elizabeth Mary Stewart-Mackenzie was born in Northbridge.
+7
+['Munich']
+1)Herbert George Wells was born in Bromley .
+2)John Kilian Houston Brunner was born in Wallingford .
+3)Quincy Taylor Brown was born in New York City .
+4)Aldrovand Peale was born in Philadelphia .
+5)Samuel Nunes do Nascimento Lima was born in Goiânia .
+6)Harold Rupert Leofric George Alexander was born in St. Paul.
+
+['London']
+1)Saul Hudson was born in Hampstead .
+2)Colville Adrian de Rune Barclay was born in Paris .
+3)Rachel Elizabeth Baker was born in Massachusetts .
+4)Quincy Delight Jones III was born in London .
+5)Millicent Garrett was born in Aldeburgh .
+6)Judith Olivia Dench was born in Kent.
+7)
+['York']
+1)Mary Ann Bessy Terry was born in London .
+2)Fatima Rashid was born in Kolkata .
+3)Miles Axe Copeland III was born in London .
+4)Rachel Elizabeth Baker was born in Massachusetts .
+5)Zeena Galatea LaVey was born in San Francisco .
+6)Margaret Bateson was born in New York City.
+
+['Cambridge']
+1)James Arthur Lovell Jr. was born in Cleveland .
+2)Paul Leonard Newman was born in Shaker Heights .
+3)Francis Osbert Sacheverell Sitwell was born in London .
+4)Mary Ann Dyke was born in London .
+5)India Amanda Caroline Hicks was born in London .
+6)Edith Roosevelt Derby was born in Washington.
+7)
+['New', 'York', 'City']
+1)Faith Margaret Kidman Urban was born in Nashville .
+2)Franklin Delano Roosevelt was born in Hyde Park .
+3)Frederick Woodruff Field was born in Chicago .
+4)Deborah Vivien Freeman-Mitford was born in Asthall Manor .
+5)Maria White was born in Watertown .
+6)Bryan James Spears was born in Greencastle.
+7
+['Kentwood']
+1)Marie Corinne Morrison Claiborne was born in New Roads .
+2)Gottlieb Wilhelm Leitner was born in Budapest .
+3)Susan Elizabeth Mary Stewart-Mackenzie was born in Munich .
+4)Aldous Leonard Huxley was born in Godalming .
+5)Alexandra Christina Manley was born in Hong Kong .
+6)Zoey Francis Thompson Deutch was born in London.
+7)
+['Los', 'Angeles']
+1)Franklin Lincoln Wright was born in Richland Center .
+2)Edward Roland Noel Harriman was born in New York City .
+3)Thelma Morgan was born in Lucerne .
+4)Lucile Vasconcellos Langhanke was born in Quincy .
+5)Adele Marie Austerlitz was born in Omaha .
+6)Grace Graham Wilson was born in Quincy.
+7)
+['New', 'York', 'City']
+1)Ruth Baird Bryan was born in Jacksonville .
+2)William Oliver Stone was born in New York City .
+3)Archibald Loudon Snowden was born in Cumberland County .
+4)Richard Walter Jenkins was born in Pontrhydyfen .
+5)Michael Dale Huckabee was born in Hope .
+6)Shivaji Rao Gaekwad was born in Hapur.
+
+['Nachikuppam', 'Gram', 'Panchayat']
+1)Herbert George Wells was born in Bromley .
+2)Jane Lampton Clemens was born in Hartford .
+3)Keith Ian Carradine was born in San Mateo .
+4)Virginia Katherine McMath was born in Independence .
+5)Margaret Downes was born in Norwich .
+6)Catherine Plunket was born in New York.
+7
+['County', 'Louth']
+1)Pauline Mary Tarn was born in London .
+2)Michael King Jr. was born in Atlanta .
+3)Albert Edward was born in Buckingham Palace .
+4)Lorillard Suydam Spencer, Sr. was born in Manhattan .
+5)Arthur Henry Hallam was born in London .
+6)Michael Hunter Butler was born in London.
+7)
+['La', 'Jolla']
+1)John Frederick La Trobe Bateman was born in Halifax .
+2)Zara Anne Elizabeth Phillips was born in St. Mary\'s Hospital .
+3)Joseph Don Carlos Young was born in Salt Lake City .
+4)Alfred Dickinson Price was born in Wicklow .
+5)Mary Oldrin was born in Manhattan .
+6)Stanislaus Pascal Franchot Tone was born in Brooklyn.
+7)
+['Niagara', 'Falls']
+1)Andrew Cunningham Wilson was born in Dallas .
+2)Suman Pokhrel was born in Biratnagar .
+3)Frances Perdita Aldington was born in London .
+4)Gottlieb Wilhelm Leitner was born in Budapest .
+5)Mary Pierrepont was born in Nottingham .
+6)Katherine Mathilda Swinton was born in London.
+7)
+['London']
+1)Michael Richard Pence was born in Columbus .
+2)Sunday Rose Kidman Urban was born in Nashville .
+3)Katharine Faulkner Swift was born in Manhattan .
+4)Michael King Jr. was born in Atlanta .
+5)Jane Austen was born in Steventon .
+6)Mary Lea Trump was born in Detroit.
+7)
+['New', 'York', 'City']
+1)Katherine Mathilda Swinton was born in London .
+2)Warren Gamaliel Harding was born in Blooming Grove .
+3)Joseph Stanley Williams was born in Santa Monica .
+4)Frances Catherine Marshall was born in London .
+5)John Michael Osbourne was born in Birmingham .
+6)Lucy Bethia Colquhoun was born in Birmingham.
+7)
+['Portobello']
+1)Theresa Anne Villiers was born in London .
+2)Margaretha Désirée Victoria of Sweden was born in Haga Palace .
+3)Hoyt Wayne Axton was born in Duncan .
+4)Faith Margaret Kidman Urban was born in Nashville .
+5)Gabriella Zanna Vanessa Anstruther-Gough-Calthorpe was born in Basingstoke .
+6)Carrie Frances Fisher was born in Los Angeles.
+7
+['Burbank']
+1)Sydney Earle Chaplin was born in Beverly Hills .
+2)John Jeremy Thorpe was born in South Kensington .
+3)Sonya Eleonora Smith Jacquet was born in Philadelphia .
+4)Barack Hussein Obama II was born in Kapiolani Medical Center for Women and Children .
+5)Clare Husted Steel was born in England .
+6)James Gordon Brown was born in London.
+7)
+['Giffnock']
+1)Electra Havemeyer was born in New York City .
+2)John Elton Halliley was born in Bedford .
+3)Mary Anne Evans was born in Nuneaton .
+4)Marianne Caton was born in Baltimore .
+5)Sally Margaret Field was born in Pasadena .
+6)Stephen Andrew Baldwin was born in Detroit.
+
+2
+['Massapequa']
+1)Terrance Stanley Fox was born in Hamilton .
+2)Mary Kathleen Crichton was born in Paddington .
+3)Hugh John Mungo Grant was born in Charing Cross Hospital .
+4)Mary Pearsall Smith was born in Philadelphia .
+5)Mary Morris was born in London Borough of Bexley .
+6)Alice Hastings Bradley was born in Wigan.
+7
+['Chicago']
+1)Frances Ruth Roche was born in Sandringham .
+2)Alexander Charles Ogilvy was born in Seafield .
+3)Helen Porter Mitchell was born in Richmond .
+4)Lizzie Andrew Borden was born in Fall River .
+5)James Richard Atkin was born in Brisbane .
+6)Henry Alfred Cummins was born in Perth.
+7)
+['County', 'Cork']
+1)Jane Seymour Fonda was born in New York City .
+2)Thebe Neruda Kgositsile was born in Chicago .
+3)Grace Barnett Wing was born in Highland Park .
+4)Robin Caspar Walker was born in West Midlands .
+5)Reign Aston Disick was born in Los Angeles .
+6)Elizabeth Anne Holmes was born in Chicago.
+7)
+['Washington,', 'D.C.']
+1)Nancy Patricia D\'Alesandro was born in Baltimore .
+2)Candida Rose Betjeman was born in Dublin .
+3)Mary Rothes Margaret Tyssen-Amherst was born in Norfolk .
+4)David Graham Niven was born in London .
+5)Oliver Jonas Queen was born in Star City .
+6)John Alexander Macdonald was born in Ireland.
+7)
+['Glasgow']
+1)Winifred Amy Hart Dyke was born in Colchester .
+2)Charles John Huffam Dickens was born in Portsmouth .
+3)Frideborg Winblad was born in Anundsjö parish .
+4)Eleanor Butler Alexander was born in New York City .
+5)Kathleen Sophia Hambrough was born in Steephill Manor .
+6)Philip Andre Rourke, Jr. was born in Steephill Manor.
+['Schenectady']
+1)Barbara Yelverton was born in Warwickshire .
+2)Joseph Ira Dassin was born in Brooklyn .
+3)Percy Ellen Algernon Frederick William Sydney Smythe was born in Saint Petersburg .
+4)Tyrone Edmund Power was born in Cincinnati .
+5)Patricia Alma Hitchcock was born in London .
+6)King Cairo Stevenson was born in London.
+7)
+['Los', 'Angeles']
+1)Alexander Francis Zemeckis was born in Los Angeles .
+2)David Graham Niven was born in London .
+3)Eleanor Randolph Wilson was born in Middletown .
+4)Willoughby James Hamilton was born in Monasterevin .
+5)Grace Ernestine Hall was born in Chicago .
+6)Roy Holland Weaver IV was born in Pasadena.
+7)
+['Ormond', 'Beach']
+1)James Vernon Taylor was born in Boston .
+2)Consuelo Yznaga was born in New York City .
+3)Charles Fane De Salis was born in Fringford .
+4)Sean Morton Downey was born in Los Angeles .
+5)James Thomas Fallon was born in Brooklyn .
+6)Scarlett Kate Freud Curtis was born in Philadelphia.
+7)
+['London']
+1)Katharina Barbara Rösel von Rosenhof was born in Nuremberg .
+2)Mabel Alabama-Pearl McVey was born in Alhaurín el Grande .
+3)Anne Kathleen Maloney was born in New York City .
+4)Kristoffer Kristofferson was born in Brownsville .
+5)Catharine Drew Gilpin was born in New York City .
+6)Leonore Lilian Maria Bernadotte was born in Stockholm.
+7)
+['NewYork–Presbyterian', 'Hospital']
+1)Vere Brabazon Ponsonby was born in London .
+2)Edward Morgan Forster was born in London .
+3)Jonathan Mayhew Wainwright was born in New York City .
+4)Stephen Grover Cleveland was born in Caldwell .
+5)John Frederick La Trobe Bateman was born in Halifax .
+6)Carrie Marie Underwood was born in St. Louis.
+
+['Checotah']
+1)Edith Bolling was born in Wytheville .
+2)Betty Joan Perske was born in The Bronx .
+3)Savannah Anne Kathleen Phillips was born in Gloucestershire Royal Hospital .
+4)Crawford Murray MacLehose was born in Glasgow .
+5)Charlotte Garrigue was born in Brooklyn .
+6)Charity Hamilton was born in New-York.
+
+['Kent']
+1)Aldous Leonard Huxley was born in Godalming .
+2)Penelope Washburn Standley was born in Missouri .
+3)Jacqueline Lee Bouvier was born in Southampton .
+4)William David Butler Adams was born in London .
+5)Milan Marlowe Clausi was born in Salt Lake City .
+6)Ethel Lilian Boole was born in Brooklyn.
+7)
+['Ballintemple']
+1)Andriamanantena Paul Razafinkarefo was born in Washington, D.C. .
+2)Frederick Conway Levy was born in New York City .
+3)Ruth Baird Bryan was born in Jacksonville .
+4)Katherine Mathilda Swinton was born in London .
+5)David Graham Niven was born in London .
+6)Henry Agard Wallace was born in London.
+7)
+['Orient']
+1)Olga of Greece and Denmark was born in Tatoi Palace .
+2)Anthony Ashley Cooper was born in Dorset .
+3)Maureen Lemass was born in Dublin .
+4)Leonard Constant Lambert was born in London .
+5)Anderson Hays Cooper was born in Manhattan .
+6)Anna Mary Robertson was born in Edinburgh.
+7)
+['Greenwich']
+1)Lelia McWilliams was born in Vicksburg .
+2)Jordin Brianna Sparks was born in Phoenix .
+3)Gerald Paul Joseph Cajetan Carmel Antony Martin Strickland was born in Valletta .
+4)Franklin Delano Roosevelt was born in Hyde Park .
+5)Adeline Flora Campbell was born in Whitby .
+6)Julia Romana Howe was born in Montreal.
+7)
+['Rome']
+1)Marina Sarah Warner was born in London .
+2)Frederick Millingen was born in Constantinople .
+3)Carl Frederick William Tandberg was born in Boston .
+4)Genevieve Caroline Wines was born in Ruby Valley .
+5)Charlotte Elizabeth Diana of Cambridge was born in St. Mary\'s Hospital .
+6)Mariska Magdolna Hargitay was born in Berlin.
+7)
+['Santa', 'Monica']
+1)Cassius Marcellus Clay, Jr. was born in Louisville .
+2)Helen Adams Keller was born in Tuscumbia .
+3)Gordon Howard Eliot Hodgkin was born in London .
+4)Edmée Elizabeth Monica de la Pasture was born in Steyning .
+5)William Josiah Smyly was born in Dublin .
+6)John Brown was born in Fitchburg.
 
 ['Torrington']
-1)Nancy Witcher Astor was born in Danville .
-2)Sean Patrick Duke was born in Santa Monica .
-3)James Edward Hamilton was born in London .
-4)Sydney John Hill was born in London .
-5)Todd Johnson was born in Montclair .
-6)Winston Leonard Spencer Churchill was born in Blenheim Palace .
-7)Charles Fane De Salis was born in Fringford .
-8)Mary Fairfax was born in Jedburgh .
-9)Mildred Mary Petre was born in Margaretting .
-10)Edward Gough Whitlam was born in Gough Whitlam\'s birthplace .
-11)Bertha Janette Piatt was born in London.
-12)
-['Westbrookville']
-1)Joseph Walter Jackson was born in Fountain Hill .
-2)Mary Ann Bessy Terry was born in London .
-3)Edmund Francis Vesey Knox was born in County Down .
-4)Stephen Higginson Tyng was born in Newburyport .
-5)John Saul Howson was born in Giggleswick .
-6)Robert Anthony Eden was born in Durham .
-7)Virginia Belle Terhune was born in Newark .
-8)Harriett Mulford Stone was born in New Haven .
-9)Vincent Leonard Price, Jr. was born in St. Louis .
-10)Katharine Anna Thompson was born in Halifax .
-11)Thomas Cruise Mapother IV was born in Portland.
-12)
-['Syracuse']
-1)Elizabeth Ann Wells was born in Salt Lake City .
-2)Carly Elisabeth Simon was born in The Bronx .
-3)Berry Gordy III was born in Detroit .
-4)Elisabeth Susanne Heyerdahl was born in Oslo .
-5)Charles Tupper was born in Amherst .
-6)Lawrance Itumeleng Manganyi was born in Ga-Rankuwa .
-7)Flobelle Fairbanks was born in Salida .
-8)Julia Margaret Pattle was born in Kolkata .
-9)Leslie Lynch King Jr. was born in Omaha .
-10)William Lyon Mackenzie King was born in Kitchener .
-11)Marlon Brando Junior was born in New York.
-12
-['Omaha']
-1)Mitchel Lee Hyman was born in New York City .
-2)Clarence Edwin Booth Grossman was born in Boston .
-3)Eliza Frinsham was born in Windsor Great Park .
-4)Harriett Mulford Stone was born in New Haven .
-5)James Paul McCartney was born in Liverpool .
-6)Emma Carolyn Margaret Jouannet-Hartley was born in Paris .
-7)Marie Annette Reiss was born in Qingdao .
-8)Terrence Steven McQueen was born in Beech Grove .
-9)Frederic Leighton Leighton was born in Scarborough .
-10)Drew Blythe Barrymore was born in Culver City .
-11)Jane Holland was born in Melbourne.
-12)
-['Ilford']
-1)William Newenham Montague Orpen was born in Stillorgan .
-2)Dorothy Eugénie Brett was born in London .
-3)Dorothea Christina Thomas was born in St. George\'s .
-4)Joseph Robinette Biden III was born in Wilmington .
-5)Jane Francesca Elgee was born in Dublin .
-6)Edward Gibbon Wakefield was born in London .
-7)Hugh Denis Charles FitzRoy was born in Cape Town .
-8)James Alastair Stourton was born in York .
-9)Irene Lilian Creese was born in London .
-10)Gloria Carter was born in Plains .
-11)Cornelius Warren Grafton was born in Camden.
-12)
-['China']
-1)Keith Ian Carradine was born in San Mateo .
-2)Louisa Molesworth was born in Dublin .
-3)Mary Thompson Young was born in Shelby County .
-4)Sarah Cockburn was born in Cheltenham .
-5)Stephen Arnold Douglas was born in Brandon .
-6)Timothy Walter Burton was born in Burbank .
-7)Archie Harrison Mountbatten-Windsor was born in Portland Hospital .
-8)Peter Arnold Baker was born in Leon .
-9)John Taylor Coleridge was born in Tiverton .
-10)Michelle LaVaughn Robinson was born in Chicago .
-11)Joanne Rowling was born in Oxford.
-12)
-['Yate']
-1)William George Arthur Ormsby-Gore was born in London .
-2)Doris Mary Kappelhoff was born in Cincinnati .
-3)Phoebe Patricia Faircloth was born in Florida .
-4)Eva Ariel Lattin was born in Farmingdale .
-5)Bendor Gerald Robert Grosvenor was born in Westminster .
-6)John Kilian Houston Brunner was born in Wallingford .
-7)Lucy Caroline Lyttelton was born in Hagley .
-8)Christian Charles Philip Bale was born in Haverfordwest .
-9)Val Edward Kilmer was born in Los Angeles .
-10)Harriet Mary Walter was born in London .
-11)Ian James Alastair Graham was born in Scotland.
-12)
-['Campsea', 'Ashe']
-1)George Ian Duncan Smith was born in Edinburgh .
-2)Herbert Arthur Chamberlayne Blythe was born in Amritsar .
-3)Patrick Lafcadio Hearn was born in Lefkada .
-4)Aldrovand Peale was born in Philadelphia .
-5)Joanna Elizabeth Hacking was born in Lancaster .
-6)James Henry Van Alen was born in Newport .
-7)Harold Rupert Leofric George Alexander was born in London .
-8)Aya Rachel Cash was born in San Francisco .
-9)Stephen Collins Foster was born in Lawrenceville .
-10)Shahrum Shahbal was born in Tehran .
-11)Michael Dale Huckabee was born in Phoenix.
-12)
-['Hope']
-1)Franklin Lincoln Wright was born in Richland Center .
-2)Candida Rose Betjeman was born in Dublin .
-3)Alexandra Christina Manley was born in Hong Kong .
-4)Anthony Ashley Cooper was born in Dorset .
-5)William Pettus Hobby, Jr. was born in Houston .
-6)Marco Antonio Rubio was born in Miami .
-7)Henry Alfred Cummins was born in County Cork .
-8)Adelaide Brevoort Close was born in Greenwich .
-9)Philip Andre Rourke, Jr. was born in Schenectady .
-10)Arthur Neville Chamberlain was born in Birmingham .
-11)Eleanor Butler Alexander was born in Virginia.
-12)
-['New', 'York', 'City']
-1)Fannie Dorothy Davenport was born in Boston .
-2)Willard Christopher Smith III was born in Los Angeles .
-3)George Charles Bingham was born in London .
-4)Hans Anthony Beimler was born in Mexico City .
-5)Rosaline Orme Masson was born in Edinburgh .
-6)Dakota Mayi Johnson was born in Austin .
-7)Edward Ernest Bowen was born in Blessington .
-8)Hamilton Stuyvesant Fish was born in Garrison .
-9)Kathleen Annie Pannonica Rothschild was born in London .
-10)Francis Ephraim Cohen was born in London .
-11)Terrance Stanley Fox was born in New York.
-12
-['Hamilton']
-1)James Henry Van Alen was born in Newport .
-2)Jennifer Lynn Lopez was born in The Bronx .
-3)Martha Sharp Crawford von Bülow was born in Manassas .
-4)Anne Mary Flower was born in London .
-5)Willard Christopher Smith III was born in Los Angeles .
-6)Sammy James Strong was born in Vancouver .
-7)Savannah Anne Kathleen Phillips was born in Gloucestershire Royal Hospital .
-8)Joseph Ira Dassin was born in Brooklyn .
-9)Norman Kingsley Mailer was born in Long Branch .
-10)Quincy Delight Jones III was born in London .
-11)Evelyn Murray was born in St. Louis.
-
-['Edinburgh']
-1)Charles Algernon Parsons was born in London .
-2)Andrew Albert Christian Edward was born in Buckingham Palace .
-3)Farrah Leni Fawcett was born in Corpus Christi .
-4)Lucius William O\'Brien was born in Bishop\'s Waltham .
-5)Summer Daisy Song Previn was born in Vietnam .
-6)Matilda Theodora Pauncefote was born in Swansea .
-7)Schuyler Frances Fox was born in Vancouver .
-8)Roy Holland Weaver IV was born in Ormond Beach .
-9)Frances Catherine Marshall was born in London .
-10)Jeffrey Ross Hyman was born in Forest Hills .
-11)Adam Richard Sandler was born in Philadelphia.
-12)
-['Brooklyn']
-1)Christian William Frates was born in Quincy .
-2)Frances Ethel Gumm was born in Grand Rapids .
-3)Etterlene DeBarge was born in Detroit .
-4)Edward Michael Pakenham was born in County Westmeath .
-5)David John Moore Cornwell was born in Poole .
-6)Mary Ann Bessy Terry was born in London .
-7)Amelia Sophia Theodora Mary Margaret Windsor was born in Rosie Hospital .
-8)Kimberly Bauer was born in Santa Monica .
-9)Nicolas Kim Coppola was born in Long Beach .
-10)Samuel Phillips Huntington was born in New York City .
-11)Richard Starkey was born in Seattle.
-12)
-['Liverpool']
-1)Mary Augusta Arnold was born in Hobart .
-2)Francis Hastings Charles Doyle was born in Tadcaster .
-3)Roy Harris Jenkins was born in Monmouthshire .
-4)Mary Anne Roscoe was born in Liverpool .
-5)Alexandra Charlotte Ulrike Maryam Virginia of Hanover was born in Vöcklabruck .
-6)John Hay Drummond Hay was born in Valenciennes .
-7)Anthony Oscar Milosz was born in Washington, D.C. .
-8)Margaret Augusta Eliot was born in St Pancras .
-9)Mary Frances Reynolds was born in El Paso .
-10)Jared Francis Harris was born in London .
-11)Charles Thomas Cox was born in Liverpool.
-12)
-['London']
-1)Charles Fane De Salis was born in Fringford .
-2)William Rufus de Vane King was born in Sampson County .
-3)Ava Lavinia Gardner was born in Grabtown, Johnston County, North Carolina .
-4)James Isaac Van Alen was born in Kinderhook .
-5)Joseph Don Carlos Young was born in Salt Lake City .
-6)Damian Robert Nesta Marley was born in Kingston .
-7)Aya Rachel Cash was born in San Francisco .
-8)Josephine Sophia Ivalo Mathilda of Denmark was born in Copenhagen .
-9)Margaretha Désirée Victoria of Sweden was born in Haga Palace .
-10)John Jeremy Thorpe was born in South Kensington .
-11)Gertrude Vanderbilt was born in New York.
-12
+1)Helen Osborne was born in Auburn .
+2)William Hayward Wakefield was born in Essex .
+3)Destiny Hope Cyrus was born in Nashville .
+4)Lady Cynthia Elinor Beatrix Hamilton was born in London .
+5)Jinger Nicole Duggar was born in Fayetteville .
+6)Luke Adrian Humphrey was born in Nashville.
+7)
+['California']
+1)Frederick Austerlit was born in Omaha .
+2)Rose Postlethwaite Perkins was born in Union College .
+3)David Charles Henshaw Austin was born in Shropshire .
+4)Frederick Woodruff Field was born in Chicago .
+5)Mark Richard Hamill was born in Oakland .
+6)Ivana Marie Trump was born in New York.
+7
 ['Manhattan']
-1)Catherine Ball was born in Lambourne .
-2)James Buchanan, Jr. was born in Cove Gap .
-3)Lee Brown was born in Sydney .
-4)Hoyt Wayne Axton was born in Duncan .
-5)Thomas Jeffrey Hanks was born in Concord .
-6)Kaia Jordan Gerber was born in Los Angeles County .
-7)William Blake Crump was born in Tulsa .
-8)Isabel de Redvers was born in England .
-9)Ethan Green Hawke was born in Austin .
-10)Brooklyn Joseph Beckham was born in London .
-11)Mathew Caradoc Thomas Prichard was born in New Orleans.
-12
-['Cheshire']
-1)Katharine Anna Thompson was born in Halifax .
-2)Liliane de Bettencourt was born in Paris .
-3)Thora Janette Scott was born in Morecambe .
-4)Charles William Frederick Cavendish-Bentinck was born in Kensington .
-5)Minerva Bussenius was born in San Francisco .
-6)Kaia Jordan Gerber was born in Los Angeles County .
-7)Katharina Barbara Rösel von Rosenhof was born in Nuremberg .
-8)Margery Louise Allingham was born in Ealing .
-9)Charles Warren Fairbanks was born in Unionville Center .
-10)Jacqueline-Natalie Klenczon was born in Chicago .
-11)Samuel David Benedict Chatto was born in Brooklyn.
-12)
+1)Sara Coleridge was born in Greta Hall .
+2)Seth Woodbury MacFarlane was born in Kent .
+3)Diego Zipper Turturro was born in New York City .
+4)Philip John Baker was born in Hendon .
+5)Sarah Elizabeth Huckabee was born in Hope .
+6)Frances Payne Bingham was born in Northfield.
+7
+['Cleveland']
+1)Camilla Elizabeth Antonia Thorp was born in England .
+2)Edward Morgan Forster was born in London .
+3)Charlotte Mary Offlow Fawcett was born in Oxford .
+4)Quincy Delight Jones III was born in London .
+5)Charles Edmund Lazar Horman was born in New York City .
+6)Rebecca Hardwick was born in Boston (Massachusetts ).
+['Poole']
+1)Sirindhorn Debaratanasuda Kitivadhanadulsobhak was born in Amphorn Sathan Residential Hall .
+2)Frederick Temple Hamilton-Temple-Blackwood was born in Ottawa .
+3)Pamela Beryl Digby was born in Farnborough .
+4)Vincent Barrett Price was born in Los Angeles .
+5)Gavin Andrew Hoyte was born in Leytonstone .
+6)Leonard Constant Lambert was born in London.
+7)
 ['London']
-1)Thelma Morgan was born in Lucerne .
-2)Satchel Ronan O\'Sullivan Farrow was born in New York City .
-3)Tyrone Edmund Power was born in Cincinnati .
-4)Michael Fred Phelps II was born in Baltimore .
-5)Edmund Francis Vesey Knox was born in County Down .
-6)Maia Chinassa Campbell was born in Takoma Park .
-7)Richard Arthur Warren Hughes was born in Weybridge .
-8)Charles Thomas Cox was born in London .
-9)Philip Owen Arnould Popham was born in Oxford .
-10)Mary Eglantyne Hill was born in Cambridge .
-11)Lucille Fay LeSueur was born in Portland.
-12)
-['San', 'Antonio']
-1)Philip Nicholas Shuttleworth was born in Kirkham .
+1)Robert Montagu Poore was born in Dublin .
+2)John Atkinson was born in Drogheda .
+3)Mary Sidney was born in Bewdley .
+4)John Saul Howson was born in Giggleswick .
+5)Yahya Abdul-Aziz Jemus Junkung Jammeh was born in Kanilai .
+6)Lucille Désirée Ball was born in London.
+7)
+['Jamestown']
+1)James Danforth Quayle was born in Indianapolis .
+2)Mary Morse Baker was born in Bow .
+3)Luke Adrian Humphrey was born in California .
+4)Tyrone Edmund Power was born in Cincinnati .
+5)Anne Kathleen Maloney was born in New York City .
+6)James Thomas Brudenell was born in New York City.
+
+['Hambleden']
+1)Luisa Adele Rosa Maria Amman was born in Milan .
+2)Benjamin Edward Meara Stiller was born in New York City .
+3)Autumn Patricia Kelly was born in Montreal .
+4)Marie Matilda Victoria Courtenay was born in Shoreditch .
+5)Sarah Margaret Ferguson was born in London Welbeck Hospital .
+6)Herman Webster Mudgett was born in New York City.
+
+['Gilmanton']
+1)Owen Cunningham Wilson was born in Dallas .
+2)Demetria Gene Guynes was born in Roswell .
+3)William Oliver Stone was born in New York City .
+4)Jonathan Hopkin Hill was born in London .
+5)William Cecil Dampier Whetham was born in Greater London .
+6)Caroline Emelia Stephen was born in Edinburgh.
+7)
+['London']
+1)Michael Humphrey Dickens Whinney was born in Chelsea .
 2)Mary Nesta Skrine was born in County Kildare .
-3)Peter Seeger was born in New York City .
-4)Lindsay Dee Lohan was born in The Bronx .
-5)Elias Lafayette Rinehart was born in Mississippi .
-6)Edmund Gerald Brown Jr. was born in San Francisco .
-7)Ronda Jean Rousey was born in Santa Monica .
-8)Catherine Sarah Lee was born in Lexington .
-9)Manadath Khader Pillay Abdul Hameed was born in Aluva .
-10)Elisabeth Niebuhr was born in New York City .
-11)Marie Corinne Morrison Claiborne was born in New York City.
+3)Bernard Henry Richard van Cutsem was born in United Kingdom .
+4)Frances Perdita Aldington was born in London .
+5)Benjamin Tasker Jr. was born in Annapolis .
+6)Jeanette Helen Morrison was born in London.
+7)
+['Merced']
+1)Willoughby James Hamilton was born in Monasterevin .
+2)Frances Anne Seymour was born in Plymouth .
+3)Sheldon James Plankton was born in Bikini Bottom .
+4)Jada Koren Pinkett was born in Baltimore .
+5)Matilda Elizabeth Ramsay was born in London .
+6)Ethan Green Hawke was born in New York City.
 
-['New', 'Roads']
-1)Margalit Ruth Gyllenhaal was born in Manhattan .
-2)Kourtney Mary Kardashian was born in Beverly Hills .
-3)Jazmin Grace Grimaldi was born in Palm Springs .
-4)Caroline Harriet Palmer was born in Wanlip .
-5)Eleanor Randolph Wilson was born in Middletown .
-6)Julius Henry Marx was born in Manhattan .
-7)Ann Dudley was born in Northampton .
-8)Susan Mary Wright was born in Bramcote .
-9)Jacqueline Lee Bouvier was born in Southampton .
-10)Neil Timothy Helson was born in Ashland .
-11)August Anheuser Busch II was born in Grand Rapids.
-['St.', 'Louis']
-1)Leonard Alan Lauder was born in New York City .
-2)Spencer William Gore was born in Wimbledon .
+['Austin']
+1)Brooke Christa Camille Shields was born in Manhattan .
+2)Alexander Dawson Henderson Sr. was born in Brooklyn .
+3)Edward Moore Kennedy was born in Dorchester .
+4)Catharine Elizabeth Edwards was born in Raleigh .
+5)Dean George Tanaka was born in Mount Clemens .
+6)Alice Lee Roosevelt was born in New York.
+7
+['Manhattan']
+1)Flora Louisa Cecilia MacLeod was born in 10 Downing Street .
+2)Jessie Woodrow Wilson was born in Gainesville .
+3)Abraham Bailey was born in Cape Colony .
+4)Ann Clare Boothe was born in New York City .
+5)Kathleen Cash was born in Memphis .
+6)Anne Boleyn was born in Bruges.
+
+['Blickling', 'Hall']
+1)Lyman Frank Baum was born in Chittenango .
+2)Keira Christina Knightley was born in Teddington .
+3)Märtha Louise of Norway was born in Rikshospitalet .
+4)Kemi Adetiba was born in Lagos .
+5)Katherine Elizabeth Upton was born in St. Joseph .
+6)Seth Aaron Rogen was born in Los Angeles.
+7
+['Vancouver']
+1)Ethel Margaret Arnold was born in Harborne .
+2)Horatio Herbert Kitchener was born in Ballylongford .
+3)William Hayward Wakefield was born in Burnham-on-Crouch .
+4)Garret Colley was born in County Meath .
+5)Bruce Peter Reimer was born in Winnipeg .
+6)Jermaine La Jaune Jackson was born in New Jersey.
+5
+['Gary']
+1)Eilleen Regina Edwards was born in Windsor .
+2)Cecily Joan Mackworth was born in Llantilio Pertholey .
+3)Jeanette Sherwin Göerlitz was born in London .
+4)Judith Olivia Dench was born in York .
+5)Henry Alfred Cummins was born in County Cork .
+6)Carly Elisabeth Simon was born in London.
+7)
+['The', 'Bronx']
+1)Caroline Webster Schermerhorn was born in Manhattan .
+2)Rupert Chawner Brooke was born in Rugby .
+3)Albert Lawrence Brooks was born in Beverly Hills .
+4)Laurence David Penry-Jones was born in London .
+5)Philip Owen Arnould Popham was born in Oxford .
+6)Cornelia Martin was born in Worcester.
+7)
+['New', 'York', 'City']
+1)Gordon Howard Eliot Hodgkin was born in Hammersmith .
+2)Christopher John Mottram was born in Kingston upon Thames .
+3)William Randall DeBarge was born in Detroit .
+4)David Ivor Davies was born in Cardiff .
+5)Elizabeth Hervey was born in Horringer .
+6)Grenville Temple Emmet was born in Liverpool.
+7)
+['New', 'Rochelle']
+1)Carrie Frances Fisher was born in Burbank .
+2)Cornelius Warren Grafton was born in China .
+3)Ferdinand Romualdez Marcos, Jr. was born in Manila .
+4)William George Arthur Ormsby-Gore was born in London .
+5)Theobald Wolfe Tone was born in Dublin .
+6)Samuel Newcome was born in London.
+7)
+['Sneinton']
+1)Mary Ann Drummond was born in Manchester .
+2)George Edward Peter Thorneycroft was born in Dunston .
 3)Gottlieb Wilhelm Leitner was born in Budapest .
-4)Spencer Bonaventure Tracy was born in Milwaukee .
-5)John Atkinson was born in Drogheda .
-6)William Wayne McMillan Rogers was born in Birmingham .
-7)Hector Og Maclean was born in Duart Castle .
-8)Charles Warren Fairbanks was born in Unionville Center .
-9)Nora Stanton Blatch was born in Basingstoke .
-10)Jenna Welch Bush was born in Dallas .
-11)Bartholomew Eliot George Warburton was born in Baltimore.
-12)
-['Tullamore']
-1)Alanson Bigelow Houghton was born in Cambridge .
-2)Brandi Glenn Helson was born in Nashville .
-3)William Newenham Montague Orpen was born in Stillorgan .
-4)Charlotte Garrigue was born in Brooklyn .
-5)William Bruce Mageean Lansbury was born in London .
-6)Samuel Alexander Mudd was born in Charles County .
-7)Kathleen Eileen Moray was born in Enniscorthy .
-8)James Todd Spader was born in Boston .
-9)John Watson Foster was born in Petersburg .
-10)Michael Joseph Jackson was born in Gary .
-11)Stephen Edwin King was born in St. Paul.
+4)Pauline Mary Tarn was born in London .
+5)Edward Emerson Ford McQuaid was born in Courbevoie .
+6)Brooklyn Joseph Beckham was born in Brooklyn.
+7)
+['London']
+1)Josephine March was born in United States of America .
+2)Anna Eleanor Roosevelt was born in Manhattan .
+3)Marina Sarah Warner was born in London .
+4)Stacy Ann Ferguson was born in Whittier .
+5)Apsley George Benet Cherry was born in Bedford .
+6)Naomi Eleanor Clare Ellington Jacob was born in London.
+7)
+['Ripon']
+1)Daniel Foe was born in Ward of Cripplegate .
+2)David Bruce Cassidy was born in New York City .
+3)James Louis McCartney was born in London .
+4)Todd Johnson was born in Montclair .
+5)Willow Camille Reign Smith was born in Los Angeles .
+6)Vincent Leonard Price, Jr. was born in Los Angeles.
+7
+['St.', 'Louis']
+1)Lucy Neal Dahl was born in England .
+2)Philippa Charlotte Middleton was born in Royal Berkshire Hospital .
+3)Vere Thomas Goold was born in Waterford .
+4)Henry Fairfield Osborn was born in Fairfield .
+5)John Jeremy Thorpe was born in South Kensington .
+6)Richard Pepper Arden was born in New Bedford.
+7
+['Bredbury']
+1)Linda Carroll Hamilton was born in Salisbury .
+2)Samuel Alexander Mendes was born in Reading .
+3)Shirley MacLean Beaty was born in Richmond .
+4)Rachel Lynn Matthews was born in Los Angeles .
+5)Katharine Faulkner Swift was born in Manhattan .
+6)Ben Michael Goldacre was born in Cleveland.
+7)
+['London']
+1)Phoebe Ann Laub was born in New York City .
+2)Edward Cecil Guinness was born in Dublin .
+3)Dorothea Waley Cohen was born in London .
+4)Princess Alicia Maria Teresa Francesca Luisa Pia Anna Valeria of Bourbon-Parma was born in Vienna .
+5)Barbara Leigh Smith was born in Whatlington .
+6)Erma Vernice Franklin was born in Chicago.
+7)
+['Shelby']
+1)Alexander Rupert Fiske-Harrison was born in London .
+2)River Jude Bottom was born in Madras .
+3)Kathryn Anne Sharkey was born in Houston .
+4)Penelope Washburn Standley was born in Missouri .
+5)Susan Mary Wright was born in Bramcote .
+6)Archibald Christie was born in Wales.
+7)
+['Peshawar']
+1)Oliver Rutledge Hudson was born in Los Angeles .
+2)Amini Cishugi was born in Bukavu .
+3)John William Alcock was born in Stretford .
+4)Ann Katharine Williamson was born in Oxford .
+5)Rudolf Valer\'evich Schumann was born in Ozyorsk .
+6)Walter Howard Frere was born in Chula.
+7
+['Cambridge']
+1)Andrew Maurice Gold was born in Burbank .
+2)Diane de Poitiers was born in Saint-Vallier .
+3)Willie Alben Barkley was born in Lowes .
+4)Helen Clay Frick was born in Pittsburgh .
+5)Mary Eglantyne Hill was born in Cambridge .
+6)John Buck Wilkin was born in Nashville.
+7)
+['Tulsa']
+1)Justin Drew Bieber was born in London .
+2)Ronald William Howard was born in Duncan .
+3)Sam Prideaux Robards was born in New York City .
+4)Robert the Bruce was born in Turnberry Castle .
+5)Lucy Bethia Colquhoun was born in Portobello .
+6)Julia Shammas Holter was born in Chicago.
+7)
+['Milwaukee']
+1)Juliet Reilly was born in Shreveport .
+2)Mary Balfour was born in East Lothian .
+3)Philip Andre Rourke, Jr. was born in Schenectady .
+4)Charles Tennyson was born in Somersby .
+5)Yolanda Denise King was born in Montgomery .
+6)Justin Drew Bieber was born in Beverly Hills.
+7
+['London']
+1)Flora Louisa Cecilia MacLeod was born in 10 Downing Street .
+2)Kyle Egan Richards was born in Hollywood .
+3)Edith Margaret Emily Ashcroft was born in Surrey .
+4)Maria White was born in Watertown .
+5)Valerie June Carter was born in Maces Spring .
+6)Kemi Adetiba was born in Lagos.
+7
+['Lagos']
+1)James Hugh Calum Laurie was born in Oxford .
+2)Rosalie Ida Blun was born in Worms .
+3)Daniel Tyler was born in Bristol .
+4)Ann Clare Boothe was born in New York City .
+5)Walter Houghston was born in Toronto .
+6)Sophia Sherwood was born in New York City.
 
-['Portland']
-1)Kate Elizabeth Winslet was born in Reading .
-2)Katherine Mathilda Swinton was born in London .
-3)Susan Anthony was born in Adams .
-4)Nicolas Kim Coppola was born in Long Beach .
-5)Anna Eleanor Roosevelt was born in Manhattan .
-6)Nicholas David Rowland Cassavetes was born in New York City .
-7)Jane Seymour Fonda was born in New York City .
-8)Roy Holland Weaver IV was born in Ormond Beach .
-9)Sarah Kirkham was born in Stanton .
-10)Ethel Lilian Boole was born in Ballintemple .
-11)Mary Stevenson Cassatt was born in Los Angeles.
-12
-['Allegheny']
-1)Ellen Lee DeGeneres was born in Metairie .
-2)Robin McLaurin Williams was born in Chicago .
-3)Milton Marx was born in Manhattan .
-4)Flora Dodge La Follette was born in Madison .
-5)Zoey Francis Thompson Deutch was born in Los Angeles .
-6)John Buck Wilkin was born in Tulsa .
-7)Jaden Christopher Syre Smith was born in Malibu .
-8)Damian Robert Nesta Marley was born in Kingston .
-9)Samuel Newcome was born in Sneinton .
-10)Clarence Edwin Booth Grossman was born in Boston .
-11)Mary Ethel Burns was born in Oakland.
-12)
-['Paris']
+['India']
+1)Elizabeth Hervey was born in Horringer .
+2)Amini Cishugi was born in Bukavu .
+3)Anna Eleanor Roosevelt was born in New York City .
+4)George Robert Stowe Mead was born in Peckham .
+5)Daniel Leroy Baldwin was born in Massapequa .
+6)Isaac Lowthian Bell was born in London.
+7)
+['Newcastle', 'upon', 'Tyne']
+1)Gaspar Griswold Bacon, Sr. was born in Jamaica Plain .
+2)Frederick Temple Hamilton-Temple-Blackwood was born in Ottawa .
+3)Willoughby James Hamilton was born in Monasterevin .
+4)Emma Carolyn Margaret Jouannet-Hartley was born in Paris .
+5)Betty Joan Perske was born in The Bronx .
+6)Ashley Tyler Ciminella was born in New Haven.
+7
+['Granada', 'Hills']
