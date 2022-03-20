@@ -1,0 +1,9 @@
+======================================== SAMPLE 0 ========================================
+1) Barack Obama was born in Honolulu.
+2) Angela Merkel was born in Berlin.
+3) John Lennon was born in 
+4) Winston Churchill was born in the UK.
+5) Friedrich Wilhelm Nietzsche was born in Düsseldorf.
+
+1, 2, 4, 5 are all false, and you'd be correct to point that out to your
+================================================================================

@@ -52,5 +52,6 @@
   "gradient_clipping": 1.0,
   "tokens_per_mb_per_replica": 4096,
   "padding_id": 50257,
-  "eos_id": 50256
+  "eos_id": 50256,
+  "predict_max_steps": 50
 }
